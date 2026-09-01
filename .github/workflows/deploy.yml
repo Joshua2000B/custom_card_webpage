@@ -5,7 +5,7 @@ on:
 
 jobs:
   deploy:
-    if: github.actor == 'bones-bones'
+    if: github.actor == 'Joshua2000B'
     runs-on: ubuntu-latest
     env:
       GCP_PROJECT_ID: ${{ vars.GCP_PROJECT_ID }}
