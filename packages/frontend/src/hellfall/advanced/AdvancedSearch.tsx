@@ -315,7 +315,7 @@ export const AdvancedSearch = () => {
 
   return (
     <div>
-      <title>Advanced Search | Hellfall</title>
+      <title>Advanced Search</title>
       <br />
       <SearchContainer>
         <SearchCriteriaSection>
@@ -360,7 +360,7 @@ export const AdvancedSearch = () => {
           <NamedCheckboxGroup
             label="Colors"
             values={HCSearchColors}
-            names={['White', 'Blue', 'Black', 'Red', 'Green', 'Purple', 'Colorless', 'Misc']}
+            names={['White', 'Blue', 'Black', 'Red', 'Green', 'Colorless']}
             value={searchColors}
             onChange={setSearchColors}
           >
@@ -386,7 +386,7 @@ export const AdvancedSearch = () => {
           <NamedCheckboxGroup
             label="Color Identity (Commander)"
             values={HCSearchColors}
-            names={['White', 'Blue', 'Black', 'Red', 'Green', 'Purple', 'Colorless', 'Misc']}
+            names={['White', 'Blue', 'Black', 'Red', 'Green', 'Colorless']}
             value={searchColorIdentities}
             onChange={setSearchColorIdentities}
           >
@@ -425,25 +425,7 @@ export const AdvancedSearch = () => {
           <CheckboxGroup
             value={searchSet}
             label={'Set'}
-            values={[
-              'HLC',
-              'HC2',
-              'HC3',
-              'HC4',
-              'HC6',
-              'HCC',
-              'HCP',
-              'HC7',
-              'HC7.0',
-              'HC7.1',
-              'HCK',
-              'HC8',
-              'HC8.0',
-              'HC8.1',
-              'HCJ',
-              'HKL',
-              'HC9',
-            ]}
+            values={['ROR']}
             onChange={setSearchSet}
           />
         </SearchCriteriaSection>

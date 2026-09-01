@@ -45,7 +45,7 @@ export const SearchBar = ({ alreadyOnSearch }: { alreadyOnSearch?: boolean }) =>
         <form action={handleSubmit}>
           <SearchBox
             width={maxWidth}
-            placeholder="Search for Hellscube cards..."
+            placeholder="Search for cards..."
             value={localQuery}
             onChange={event => setLocalQuery(event.target.value)}
             name="search"

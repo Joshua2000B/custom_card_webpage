@@ -16,14 +16,10 @@ export const Header = () => {
   return (
     <>
       <StyledHeader>
-        <StyledHeading size="medium">{" > it's hellfall"}</StyledHeading>
+        <StyledHeading size="medium">{' > card search'}</StyledHeading>
         <NavRow>
           <Navigation>
             <Link to={'/'}>search</Link>, <Link to={'/advanced'}>advanced</Link>,{' '}
-            <Link to={'/random'}>random</Link>, <Link to={'/draft'}>draft</Link>,{' '}
-            <Link to={'/deck-builder'}>deck/cube builder</Link>,{' '}
-            <Link to={'/hellscubes'}>cube resources</Link>,{' '}
-            <Link to={'/decks'}>constructed</Link>
           </Navigation>
           {!user ? (
             <AuthBlock>

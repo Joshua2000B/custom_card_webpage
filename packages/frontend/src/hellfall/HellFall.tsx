@@ -71,7 +71,7 @@ export const HellFall = () => {
 
   useEffect(() => {
     // note: leave this, there's some weird react version stuff going on
-    document.title = `${query || 'Search'} | Hellfall`;
+    document.title = `${query || 'Search'}`;
   }, [query]);
 
   return (

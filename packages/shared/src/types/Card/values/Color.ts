@@ -56,7 +56,7 @@ export const HCMiscColors: HCColors = [
 /**
  * The list of colors to use in the advanced search dropdown
  */
-export const HCSearchColors = ['W', 'U', 'B', 'R', 'G', 'P', 'C', 'Misc'];
+export const HCSearchColors = ['W', 'U', 'B', 'R', 'G', 'C'];
 // export type HCColor = HCCoreColor | HCMiscColor;
 
 // export type HCCoreColors = HCCoreColor[];
