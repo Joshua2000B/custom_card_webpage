@@ -34,8 +34,8 @@ import { hcjAoToCNMap } from './hcjCNMap.ts';
 
 export const fetchCards = async (usingApproved: boolean = false) => {
   const url = usingApproved
-    ? `https://sheets.googleapis.com/v4/spreadsheets/1qqGCedHmQ8bwi-YFjmv-pNKKMjubZQUAaF7ItJN5d1g/values/Database?alt=json&key=${sheetsKey}`
-    : `https://sheets.googleapis.com/v4/spreadsheets/1qqGCedHmQ8bwi-YFjmv-pNKKMjubZQUAaF7ItJN5d1g/values/Database+(Unapproved)?alt=json&key=${sheetsKey}`;
+    ? `https://sheets.googleapis.com/v4/spreadsheets/1wJe12B_YuZgBYts7xM6euMKNB7UlBDMJlT5ve7WP1_s/values/Database?alt=json&key=${sheetsKey}`
+    : `https://sheets.googleapis.com/v4/spreadsheets/1wJe12B_YuZgBYts7xM6euMKNB7UlBDMJlT5ve7WP1_s/values/Database+(Unapproved)?alt=json&key=${sheetsKey}`;
   const requestedData = await fetch(url);
   const asJson = (await requestedData.json()) as any;
   const [_garbage, _oldKeys, ...rest] = asJson.values as string[][];

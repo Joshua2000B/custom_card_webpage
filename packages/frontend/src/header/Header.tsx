@@ -23,12 +23,7 @@ export const Header = () => {
             <Link to={'/random'}>random</Link>, <Link to={'/draft'}>draft</Link>,{' '}
             <Link to={'/deck-builder'}>deck/cube builder</Link>,{' '}
             <Link to={'/hellscubes'}>cube resources</Link>,{' '}
-            <Link to={'https://discord.com/channels/631288872814247966/1237418389480407061'}>
-              rules
-            </Link>
-            , <Link to={'/decks'}>constructed</Link>, <Link to={'/Watchwolfwar'}>WatchWolfWar</Link>
-            , <Link to={'https://discord.gg/EWFcAnVdkX'}>discord</Link>,{' '}
-            <Link to={'https://www.reddit.com/r/HellsCube/'}>reddit</Link>
+            <Link to={'/decks'}>constructed</Link>
           </Navigation>
           {!user ? (
             <AuthBlock>

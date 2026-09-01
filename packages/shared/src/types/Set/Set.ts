@@ -83,6 +83,7 @@ export const allSetsList = [
   'FHCJ',
   'SFT',
   'NRM',
+  'ROR',
 ] as const;
 
 /**

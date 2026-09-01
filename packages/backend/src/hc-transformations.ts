@@ -35,7 +35,6 @@ import {
   cardToRelatedCard,
 } from '@hellfall/shared/utils';
 import namesRawData from '@hellfall/shared/data/oracle-names.json';
-import { fetchHCJFronts } from './fetchHCJFronts.ts';
 import { makeSort } from '@hellfall/shared/filters';
 import { printHCJ } from './printHCJ.ts';
 
@@ -302,7 +301,6 @@ const main = async () => {
   const newCards = await fetchCards();
   const usernameMappings = await fetchUsernameMappings();
   const newTokens = await fetchTokens(NO_SCRYFALL);
-  newTokens.setMultiple(fetchHCJFronts());
 
   console.log('Running in update mode - merging with existing data...');
   const { existingCards, existingTokens } = loadExistingData();
