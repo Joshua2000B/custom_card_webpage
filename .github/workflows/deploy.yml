@@ -1,4 +1,4 @@
-name: Manual Deploy Hellfall
+name: Manual Deploy CustomCardPage
 
 on:
   workflow_dispatch:
