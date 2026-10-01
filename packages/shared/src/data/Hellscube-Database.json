@@ -428,7 +428,7 @@
 				"Survivor"
 			],
 			"type_line": "Legendary Creature — Alien Lizard Survivor",
-			"oracle_text": "Infect\n{BB}, {T}: Remove all poison counters from target player or all -1/-1 counters from target creature. Add that many -1/-1 counters to up to two other target creatures.",
+			"oracle_text": "Infect\n{B}{B}, {T}: Remove all poison counters from target player or all -1/-1 counters from target creature. Add that many -1/-1 counters to up to two other target creatures.",
 			"flavor_text": "...and so it left, with a new hunger: to be left alone.",
 			"power": "1",
 			"toughness": "3",
@@ -1109,7 +1109,7 @@
 				"Survivor"
 			],
 			"type_line": "Legendary Creature — Human Nomad Survivor",
-			"oracle_text": "{RR}, {T}: Railgunner gets +10/+0 until end of turn. It deals damage equal to its power to target creature. Put two stun counters on Railgunner.",
+			"oracle_text": "{R}{R}, {T}: Railgunner gets +10/+0 until end of turn. It deals damage equal to its power to target creature. Put two stun counters on Railgunner.",
 			"flavor_text": "...and so she left, ready to take her shot.",
 			"power": "3",
 			"toughness": "2",
@@ -1407,7 +1407,7 @@
 				"Survivor"
 			],
 			"type_line": "Legendary Creature — Human Monk Survivor",
-			"oracle_text": "{GW}, {T}: Put a Tranquility counter on Seeker.\nRemove three Tranquility counters from Seeker and tap it: Return target creature from your graveyard to the battlefield.",
+			"oracle_text": "{G}{W}, {T}: Put a Tranquility counter on Seeker.\nRemove three Tranquility counters from Seeker and tap it: Return target creature from your graveyard to the battlefield.",
 			"flavor_text": "...and so she left, burdened with knowledge.",
 			"power": "2",
 			"toughness": "2",
@@ -1931,7 +1931,7 @@
 				"Survivor"
 			],
 			"type_line": "Legendary Creature — Bird Zombie Survivor",
-			"oracle_text": "Cumulative upkeep\"”Put a ruin counter on Heretic.\n{BBB}: Remove two ruin counters from Heretic.\nHeretic gets -0/-1 for each ruin counter on her.",
+			"oracle_text": "Cumulative upkeep—Put a ruin counter on Heretic.\n{B}{B}{B}: Remove two ruin counters from Heretic.\nHeretic gets -0/-1 for each ruin counter on her.",
 			"flavor_text": "...and so they left, bitterly avenged and deeply lost.",
 			"power": "8",
 			"toughness": "5",
@@ -2561,7 +2561,7 @@
 				"Insect"
 			],
 			"type_line": "Legendary Creature — Insect",
-			"oracle_text": "{1G}, {T}: Create a 0/1 green Insect creature token with flying named Flying Beetle.\n{2GG}, {T}: Create three 1/1 green Insect creature tokens named Beetle.\n{4GG}, {T}: Create three 3/3 green Insect creature tokens with defender named Beetle Guard.",
+			"oracle_text": "{1}{G}, {T}: Create a 0/1 green Insect creature token with flying named Flying Beetle.\n{2}{G}{G}, {T}: Create three 1/1 green Insect creature tokens named Beetle.\n{4}{G}{G}, {T}: Create three 3/3 green Insect creature tokens with defender named Beetle Guard.",
 			"flavor_text": "\"Just like standard Earth insects, the Worker Beetles and Beetle Guards all serve a Queen.\"",
 			"power": "1",
 			"toughness": "4",
@@ -2782,7 +2782,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "{T}, Unattach this equipment: Add {CC}.\nEquip 1, {T}",
+			"oracle_text": "{T}, Unattach this equipment: Add {C}{C}.\nEquip 1, {T}",
 			"flavor_text": "The Cadets exchange a nervous glance over the chute. Probably nothing.",
 			"colors": [],
 			"color_identity": [],
@@ -3789,7 +3789,9 @@
 				"Spacecraft"
 			],
 			"type_line": "Legendary Artifact — Spacecraft",
-			"oracle_text": "When the UES Safe Travels enters, search your library for a legendary survivor creature, reveal it, put it into your hand, then shuffle.",
+			"oracle_text": "When the UES Safe Travels enters, search your library for a legendary survivor creature, reveal it, put it into your hand, then shuffle.\nStation\n3+ | {3}, {T}: Deal 2 damage to target creature controlled by an opponent.\n10+ | Flying\n5, T: Destroy target creature you control. If you do, destroy target creature.",
+			"power": "5",
+			"toughness": "5",
 			"colors": [],
 			"color_identity": [
 				"W",
@@ -4129,7 +4131,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Whenever equipped creature blocks, Queen's Gland becomes a 3/3 green Insect artifact creature until end of combat. Queen's Gland blocks the same creature.\nIf Queen's Gland would die, instead remove it from combat, it stops being a creature, and it becomes unattached from equipped creature.\nEquip {1G}",
+			"oracle_text": "Whenever equipped creature blocks, Queen's Gland becomes a 3/3 green Insect artifact creature until end of combat. Queen's Gland blocks the same creature.\nIf Queen's Gland would die, instead remove it from combat, it stops being a creature, and it becomes unattached from equipped creature.\nEquip {1}{G}",
 			"flavor_text": "\"I just kinda left and they've been following me ever since.\"",
 			"colors": [],
 			"color_identity": [
@@ -4683,11 +4685,21 @@
 				"Land"
 			],
 			"type_line": "Land",
-			"oracle_text": "{T}: Add {C}. If you control five or more Wisps, add {BG} instead.",
+			"oracle_text": "{T}: Add {C}. If you control five or more Wisps, add {B}{G} instead.",
 			"flavor_text": "You dream of wind, blowing through trees.",
 			"colors": [],
-			"color_identity": [],
-			"color_identity_hybrid": [],
+			"color_identity": [
+				"B",
+				"G"
+			],
+			"color_identity_hybrid": [
+				[
+					"B"
+				],
+				[
+					"G"
+				]
+			],
 			"keywords": [],
 			"legalities": {
 				"standard": "legal",
@@ -4897,7 +4909,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Equipped creature gets +2/+0 and has lifelink.\nEquip {BR}",
+			"oracle_text": "Equipped creature gets +2/+0 and has lifelink.\nEquip {B}{R}",
 			"flavor_text": "#NAME?",
 			"colors": [],
 			"color_identity": [
@@ -4950,11 +4962,17 @@
 				"Desert"
 			],
 			"type_line": "Land — Desert",
-			"oracle_text": "{T}: Add {C}.\n{T}, Pay 5 life: Add {RR}",
+			"oracle_text": "{T}: Add {C}.\n{T}, Pay 5 life: Add {R}{R}",
 			"flavor_text": "You dream of sand beneath your feet.",
 			"colors": [],
-			"color_identity": [],
-			"color_identity_hybrid": [],
+			"color_identity": [
+				"R"
+			],
+			"color_identity_hybrid": [
+				[
+					"R"
+				]
+			],
 			"keywords": [],
 			"legalities": {
 				"standard": "legal",
@@ -4988,11 +5006,17 @@
 				"Land"
 			],
 			"type_line": "Land",
-			"oracle_text": "{T}: Add {C}.\n{T}, Remove two +1/+1 counters from target creature you control: Add {WW}",
+			"oracle_text": "{T}: Add {C}.\n{T}, Remove two +1/+1 counters from target creature you control: Add {W}{W}",
 			"flavor_text": "You dream of clarity.",
 			"colors": [],
-			"color_identity": [],
-			"color_identity_hybrid": [],
+			"color_identity": [
+				"W"
+			],
+			"color_identity_hybrid": [
+				[
+					"W"
+				]
+			],
 			"keywords": [],
 			"legalities": {
 				"standard": "legal",
@@ -5377,7 +5401,7 @@
 				"Land"
 			],
 			"type_line": "Legendary Artifact Land",
-			"oracle_text": "{T}, Pay 2 life: Add {CC}",
+			"oracle_text": "{T}, Pay 2 life: Add {C}{C}",
 			"flavor_text": "\"No matter what they call you, you are not their savior. You are their ruin.\"",
 			"colors": [],
 			"color_identity": [],
@@ -5422,7 +5446,7 @@
 				"Land"
 			],
 			"type_line": "Legendary Artifact Land",
-			"oracle_text": "{T}, Remove a +1/+1 counters from target creature you control: Add {CC}",
+			"oracle_text": "{T}, Remove a +1/+1 counters from target creature you control: Add {C}{C}",
 			"flavor_text": "\"Do you not see the gulf beginning to take shape between us? Do you not feel it?\nI do.\"",
 			"colors": [],
 			"color_identity": [],
@@ -6140,7 +6164,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Whenever equipped creature blocks, if it is dealt damage and survives, it deals 1 damage to each attacking creature.\nEquip {UR}",
+			"oracle_text": "Whenever equipped creature blocks, if it is dealt damage and survives, it deals 1 damage to each attacking creature.\nEquip {U}{R}",
 			"flavor_text": "> I hope I don't get in trouble for this",
 			"colors": [],
 			"color_identity": [
@@ -7364,7 +7388,7 @@
 				"Artifact"
 			],
 			"type_line": "Artifact",
-			"oracle_text": "Landfall \"” Whenever a land enters the battlefield under your control, look at the top 6 cards of your library. You may reveal an artifact card from among them. If that card is an Equipment, put it onto the battlefield. Otherwise put it into your hand. Put the rest on the bottom of your library in any order.",
+			"oracle_text": "Landfall — Whenever a land enters the battlefield under your control, look at the top 6 cards of your library. You may reveal an artifact card from among them. If that card is an Equipment, put it onto the battlefield. Otherwise put it into your hand. Put the rest on the bottom of your library in any order.",
 			"flavor_text": "\"This thing can put out anything from infrared to UV waves\"",
 			"colors": [],
 			"color_identity": [],
@@ -11470,7 +11494,9 @@
 						"Spacecraft"
 					],
 					"type_line": "Legendary Artifact — Spacecraft",
-					"oracle_text": "",
+					"oracle_text": "When UES Contact Light enters, search your library for a legendary Survivor creature, reveal it, put it into your hand, then shuffle.\nStation\n3+ | Flying\n10+ | Transform UES Contact Light",
+					"power": "0",
+					"toughness": "5",
 					"colors": [
 						"W",
 						"U",
@@ -13025,7 +13051,7 @@
 				"Lunar"
 			],
 			"type_line": "Artifact — Lunar",
-			"oracle_text": "At the beginning of your upkeep, choose an Equipment attached to equipped creature and sacrifice it. Choose one \"”\n\"¢ Search your library for a Lunar Equipment card, put it onto the battlefield attached to equipped creature, then shuffle.\n\"¢ Create a token that's a copy of a Lunar Equipment you control and attach it to equipped creature\nEquip {2}",
+			"oracle_text": "At the beginning of your upkeep, choose an Equipment attached to equipped creature and sacrifice it. Choose one —\n\"¢ Search your library for a Lunar Equipment card, put it onto the battlefield attached to equipped creature, then shuffle.\n\"¢ Create a token that's a copy of a Lunar Equipment you control and attach it to equipped creature\nEquip {2}",
 			"flavor_text": "I hope you enjoy the shooting stars. Rest in peace.",
 			"colors": [],
 			"color_identity": [],
@@ -14418,7 +14444,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Whenever equipped creature takes damage, gain 1 life.\nEquip {RW}",
+			"oracle_text": "Whenever equipped creature takes damage, gain 1 life.\nEquip {R}{W}",
 			"flavor_text": "\"And the grandparent is the youngest?\" \"Younger than the child, yes. But not the youngest.\" \"Who is the youngest?\" \"The parent.\"",
 			"colors": [],
 			"color_identity": [
@@ -15080,11 +15106,17 @@
 				"Land"
 			],
 			"type_line": "Land",
-			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice a creature: Add {BB}",
+			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice a creature: Add {B}{B}",
 			"flavor_text": "You dream of twisting roots.",
 			"colors": [],
-			"color_identity": [],
-			"color_identity_hybrid": [],
+			"color_identity": [
+				"B"
+			],
+			"color_identity_hybrid": [
+				[
+					"B"
+				]
+			],
 			"keywords": [],
 			"legalities": {
 				"standard": "legal",
@@ -15121,7 +15153,7 @@
 				"Land"
 			],
 			"type_line": "Snow Land",
-			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice an artifact: Add {CC}",
+			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice an artifact: Add {C}{C}",
 			"flavor_text": "You dream of frost and metal.",
 			"colors": [],
 			"color_identity": [],
@@ -15165,11 +15197,17 @@
 				"Land"
 			],
 			"type_line": "Snow Land",
-			"oracle_text": "{T}: Add {C}.\n{T}, Discard two cards: Add {UU}",
+			"oracle_text": "{T}: Add {C}.\n{T}, Discard two cards: Add {U}{U}",
 			"flavor_text": "You dream of quiet snowfall.",
 			"colors": [],
-			"color_identity": [],
-			"color_identity_hybrid": [],
+			"color_identity": [
+				"U"
+			],
+			"color_identity_hybrid": [
+				[
+					"U"
+				]
+			],
 			"keywords": [],
 			"legalities": {
 				"standard": "legal",
@@ -15206,11 +15244,17 @@
 				"Land"
 			],
 			"type_line": "Land",
-			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice a land: Add {GG}",
+			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice a land: Add {G}{G}",
 			"flavor_text": "You dream of vines, cutting through the sky.",
 			"colors": [],
-			"color_identity": [],
-			"color_identity_hybrid": [],
+			"color_identity": [
+				"G"
+			],
+			"color_identity_hybrid": [
+				[
+					"G"
+				]
+			],
 			"keywords": [],
 			"legalities": {
 				"standard": "legal",
@@ -15247,11 +15291,21 @@
 				"Cave"
 			],
 			"type_line": "Land — Cave",
-			"oracle_text": "{T}: Add {C}. If your devotion to white and green is greater than ten, add {GW} instead.",
+			"oracle_text": "{T}: Add {C}. If your devotion to white and green is greater than ten, add {G}{W} instead.",
 			"flavor_text": "You dream of refuge.",
 			"colors": [],
-			"color_identity": [],
-			"color_identity_hybrid": [],
+			"color_identity": [
+				"G",
+				"W"
+			],
+			"color_identity_hybrid": [
+				[
+					"G"
+				],
+				[
+					"W"
+				]
+			],
 			"keywords": [],
 			"legalities": {
 				"standard": "legal",
@@ -15335,7 +15389,7 @@
 				"Mountain"
 			],
 			"type_line": "Land — Mountain",
-			"oracle_text": "({T}: Add {R}.)\nIf you control five or more artifact creatures, this land taps for RR instead.",
+			"oracle_text": "({T}: Add {R}.)\nIf you control five or more artifact creatures, this land taps for {R}{R} instead.",
 			"flavor_text": "You dream of attracting forces.",
 			"colors": [],
 			"color_identity": [
@@ -15669,7 +15723,7 @@
 				"Land"
 			],
 			"type_line": "Legendary Land",
-			"oracle_text": "{T}: Add {CC}.\nWhen Commencement enters the battlefield, search your library for up to four Pillar cards, reveal them, and put them onto the battlefield. Then shuffle.\nWhenever you control no Pillars, exile Commencement.",
+			"oracle_text": "{T}: Add {C}{C}.\nWhen Commencement enters the battlefield, search your library for up to four Pillar cards, reveal them, and put them onto the battlefield. Then shuffle.\nWhenever you control no Pillars, exile Commencement.",
 			"flavor_text": "You dream of glass and dirt.",
 			"colors": [],
 			"color_identity": [],
@@ -15971,7 +16025,7 @@
 				"Land"
 			],
 			"type_line": "Legendary Artifact Land",
-			"oracle_text": "{T}: Add {CC}. Spend this mana only to cast creature or enchantment spells.",
+			"oracle_text": "{T}: Add {C}{C}. Spend this mana only to cast creature or enchantment spells.",
 			"flavor_text": "\"I've begun to understand our universe. The compounds that drive reality here. I've prepared a demonstration - come look, brother!\"",
 			"colors": [],
 			"color_identity": [],
@@ -16094,7 +16148,7 @@
 			"accepted_order": "323",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Void Locus Cell IIIVIIIIIILVIIIVLVILIVLLLVVVILIVLI.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Void%20Locus%20Cell%20IIIVIIIIIILVIIIVLVILIVLLLVVVILIVLI%20.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -16196,7 +16250,7 @@
 				"Crab"
 			],
 			"type_line": "Legendary Creature — Eldrazi Crab",
-			"oracle_text": "{2BB}: Exile target creature.",
+			"oracle_text": "{2}{B}{B}: Exile target creature.",
 			"flavor_text": "\"We almost got rid of it.\"",
 			"power": "8",
 			"toughness": "8",
@@ -18082,7 +18136,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "If equipped creature has haste or vigilance, whenever it is declared as an attacker, deal 3 damage to target creature.\nEquip {BG}",
+			"oracle_text": "If equipped creature has haste or vigilance, whenever it is declared as an attacker, deal 3 damage to target creature.\nEquip {B}{G}",
 			"flavor_text": "HERE - TWO COILS OF DENKU ROPE. THOSE ARE FOR STRENGTH.\nHERE - FOUR CARDS OF OBSIDIAN. THOSE ARE FOR SELF-CONFIDENCE.",
 			"colors": [],
 			"color_identity": [
@@ -18135,12 +18189,14 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Equipped creature gets +0/+3",
+			"oracle_text": "Equipped creature gets +0/+3\nEquip {1}",
 			"flavor_text": "\"His influence is dark.\nI do not blame you for your curiosity... but cleanse yourself of it immediately.\"",
 			"colors": [],
 			"color_identity": [],
 			"color_identity_hybrid": [],
-			"keywords": [],
+			"keywords": [
+				"equip"
+			],
 			"legalities": {
 				"standard": "legal",
 				"4cb": "legal",
@@ -18176,7 +18232,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "When equipped creature attacks, it can target and deal damage as though defending creatures and players didn't have protection.\nEquip {RR}",
+			"oracle_text": "When equipped creature attacks, it can target and deal damage as though defending creatures and players didn't have protection.\nEquip {R}{R}",
 			"flavor_text": "> Put some more ice in my drink WOW it's hot\n> Timestamping for break",
 			"colors": [],
 			"color_identity": [
@@ -18225,7 +18281,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Equipped creature can damage, block, and target creatures and players as though they didn't have protection.\nEquip {RR}",
+			"oracle_text": "Equipped creature can damage, block, and target creatures and players as though they didn't have protection.\nEquip {R}{R}",
 			"flavor_text": "> Put some more ice in my drink WOW it's electric\n> Timestamping for dance break",
 			"colors": [],
 			"color_identity": [
@@ -18270,13 +18326,18 @@
 			"types": [
 				"Artifact"
 			],
-			"type_line": "Artifact",
-			"oracle_text": "Creatures you control have haste and get +3/+0.",
+			"subtypes": [
+				"Equipment"
+			],
+			"type_line": "Artifact — Equipment",
+			"oracle_text": "Creatures you control have haste and get +3/+0.\nEquip {2}",
 			"flavor_text": "> OH ||||\n> OOPS\n> SPEAR DISCHARGED ENERGY AND PUNCHED A HOLE IN THE WALL",
 			"colors": [],
 			"color_identity": [],
 			"color_identity_hybrid": [],
-			"keywords": [],
+			"keywords": [
+				"equip"
+			],
 			"legalities": {
 				"standard": "legal",
 				"4cb": "legal",
@@ -18308,8 +18369,11 @@
 			"types": [
 				"Artifact"
 			],
-			"type_line": "Artifact",
-			"oracle_text": "If a creature with a bleed counter on it dies, put a bleed counter on all other creatures its owner controls.",
+			"subtypes": [
+				"Equipment"
+			],
+			"type_line": "Artifact — Equipment",
+			"oracle_text": "If a creature with a bleed counter on it dies, put a bleed counter on all other creatures its owner controls.\nEquip {B}{B}",
 			"flavor_text": "> Third attempt aborted after I injured my hand\n> Eventually was able to stop my own bleeding. The organ seems to contain immense anticoagulant properties.",
 			"colors": [],
 			"color_identity": [
@@ -18320,7 +18384,9 @@
 					"B"
 				]
 			],
-			"keywords": [],
+			"keywords": [
+				"equip"
+			],
 			"legalities": {
 				"standard": "legal",
 				"4cb": "legal",
@@ -18746,6 +18812,7 @@
 			],
 			"type_line": "Legendary Artifact — Equipment",
 			"oracle_text": "If equipped creature would die, instead tap it, remove all damage from it, and remove it from combat. Exile all Equipment attached to it. For each Equipment exiled this way, you may put an Equipment card from your hand or graveyard onto the battlefield attached to that creature.\nEquip {4}",
+			"flavor_text": "\"There’s bound to be something crawling along the sand, just hoping to make it through the day.\"",
 			"colors": [],
 			"color_identity": [],
 			"color_identity_hybrid": [],
@@ -19253,6 +19320,7 @@
 			],
 			"type_line": "Enchantment",
 			"oracle_text": "Whenever a creature blocks, it gets +0/+X until end of turn, where X is twice the number of loop counters on Artifact of Prestige.\nWhenever a creature that blocked this turn dies, the active player creates a Treasure token.\nAt the beginning of your end step, put a loop counter on Artifact of Prestige.",
+			"flavor_text": "At least one Shrine of the Mountain spawns every stage. Shrine of the Mountain effects are permanent.",
 			"colors": [],
 			"color_identity": [
 				"R"
