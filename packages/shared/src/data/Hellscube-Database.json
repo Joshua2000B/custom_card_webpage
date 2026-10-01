@@ -2729,7 +2729,7 @@
 			"accepted_order": "47",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Hiker's Boots.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Hikers Boots.png",
 			"mana_cost": "{2}",
 			"mana_value": 2,
 			"types": [
@@ -2899,7 +2899,7 @@
 			"accepted_order": "51",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Ifrit's Distinction.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Ifrits Distinction.png",
 			"mana_cost": "{2}",
 			"mana_value": 2,
 			"types": [
@@ -3114,7 +3114,7 @@
 			"accepted_order": "56",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Aurelionite's Blessing.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Aurelionites Blessing.png",
 			"mana_cost": "{2}",
 			"mana_value": 2,
 			"types": [
@@ -3165,7 +3165,7 @@
 					"name": "Aurelionite's Blessing",
 					"set": "ROR",
 					"collector_number": "56",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Aurelionite's Blessing.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Aurelionites Blessing.png",
 					"type_line": "Artifact — Equipment",
 					"component": "self"
 				}
@@ -3400,7 +3400,7 @@
 			"accepted_order": "62",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/N'kuhana's Retort.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Nkuhanas Retort.png",
 			"mana_cost": "{2}",
 			"mana_value": 2,
 			"types": [
@@ -4119,7 +4119,7 @@
 			"accepted_order": "72",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Queen's Gland.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Queens Gland.png",
 			"mana_cost": "{2}{G}",
 			"mana_value": 3,
 			"types": [
@@ -5106,7 +5106,7 @@
 			"accepted_order": "92",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Ben's Raincoat.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bens Raincoat.png",
 			"mana_cost": "{4}",
 			"mana_value": 4,
 			"supertypes": [
@@ -5366,7 +5366,7 @@
 			"accepted_order": "97",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bulwark's Ambry Tar Research.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bulwarks Ambry Tar Research.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -5411,7 +5411,7 @@
 			"accepted_order": "98",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bulwark's Ambry Aphelian Research.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bulwarks Ambry Aphelian Research.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -5686,7 +5686,7 @@
 			"accepted_order": "103",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solider's Syringe.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Soliders Syringe.png",
 			"mana_cost": "{2}",
 			"mana_value": 2,
 			"types": [
@@ -5729,7 +5729,7 @@
 			"accepted_order": "104",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Ghor's Tome.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Ghors Tome.png",
 			"mana_cost": "{2}",
 			"mana_value": 2,
 			"types": [
@@ -5780,7 +5780,7 @@
 					"name": "Ghor's Tome",
 					"set": "ROR",
 					"collector_number": "104",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Ghor's Tome.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Ghors Tome.png",
 					"type_line": "Artifact — Equipment",
 					"component": "self"
 				}
@@ -5932,8 +5932,30 @@
 			"mana_value": 0,
 			"type_line": "Legendary Land // Legendary Land",
 			"colors": [],
-			"color_identity": [],
-			"color_identity_hybrid": [],
+			"color_identity": [
+				"W",
+				"U",
+				"B",
+				"R",
+				"G"
+			],
+			"color_identity_hybrid": [
+				[
+					"W"
+				],
+				[
+					"U"
+				],
+				[
+					"B"
+				],
+				[
+					"R"
+				],
+				[
+					"G"
+				]
+			],
 			"keywords": [],
 			"legalities": {
 				"standard": "legal",
@@ -5984,7 +6006,7 @@
 						"Land"
 					],
 					"type_line": "Legendary Land",
-					"oracle_text": "{T}: Add {WUBRG}",
+					"oracle_text": "{T}: Add {W}{U}{B}{R}{G}",
 					"flavor_text": "\"You will find yourself at peace, and more importantly, my servant, in a realm overlooked by the design of my coming reprisal.\"",
 					"colors": [],
 					"frame_effects": [
@@ -6204,7 +6226,7 @@
 			"accepted_order": "113",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Lens-Maker's Glasses.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Lens-Makers Glasses.png",
 			"mana_cost": "{2}",
 			"mana_value": 2,
 			"types": [
@@ -6333,7 +6355,7 @@
 			"accepted_order": "116",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Dio's Best Friend.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Dios Best Friend.png",
 			"mana_cost": "{4}",
 			"mana_value": 4,
 			"supertypes": [
@@ -6468,7 +6490,7 @@
 			"accepted_order": "119",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Gorag's Opus.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Gorags Opus.png",
 			"mana_cost": "{5}",
 			"mana_value": 5,
 			"types": [
@@ -6635,7 +6657,7 @@
 			"accepted_order": "122",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Lost Seer's Lenses.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Lost Seers Lenses.png",
 			"mana_cost": "{1}",
 			"mana_value": 1,
 			"types": [
@@ -6678,7 +6700,7 @@
 			"accepted_order": "123",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Harvester's Scythe.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Harvesters Scythe.png",
 			"mana_cost": "{3}",
 			"mana_value": 3,
 			"types": [
@@ -7249,7 +7271,7 @@
 			"accepted_order": "135",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Paul's Goat Hoof.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Pauls Goat Hoof.png",
 			"mana_cost": "{3}",
 			"mana_value": 3,
 			"types": [
@@ -7626,7 +7648,7 @@
 			"accepted_order": "143",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Kjaro's Band.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Kjaros Band.png",
 			"mana_cost": "{3}",
 			"mana_value": 3,
 			"types": [
@@ -7669,7 +7691,7 @@
 			"accepted_order": "144",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Runald's Band.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Runalds Band.png",
 			"mana_cost": "{3}",
 			"mana_value": 3,
 			"types": [
@@ -10105,7 +10127,7 @@
 			"accepted_order": "195",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Alloy Hunter Seer's Chosen.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Alloy Hunter Seers Chosen.png",
 			"mana_cost": "{6}",
 			"mana_value": 6,
 			"supertypes": [
@@ -14071,7 +14093,7 @@
 			"accepted_order": "281",
 			"layout": "multi",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Trophy Hunter's Tricorn.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Trophy Hunters Tricorn.png",
 			"mana_cost": "{3}",
 			"mana_value": 3,
 			"type_line": "Artifact — Equipment // Artifact — Equipment",
@@ -14117,6 +14139,7 @@
 					"name": "Trophy Hunter's Tricorn (Consumed)",
 					"layout": "multi",
 					"image_status": "inapplicable",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Trophy%20Hunters%20Tricorn%20Consumed.png",
 					"mana_cost": "",
 					"mana_value": 0,
 					"types": [
@@ -14144,7 +14167,7 @@
 			"accepted_order": "282",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Molotov (6-Pack).png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Molotov 6-Pack.png",
 			"mana_cost": "{3}",
 			"mana_value": 3,
 			"types": [
@@ -14276,6 +14299,7 @@
 					"name": "Seed of Life (Consumed)",
 					"layout": "multi",
 					"image_status": "inapplicable",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Seed%20of%20Life%20Consumed.png",
 					"mana_cost": "",
 					"mana_value": 0,
 					"types": [
@@ -14658,7 +14682,7 @@
 			"accepted_order": "292",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Collector's Compulsion.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Collectors Compulsion.png",
 			"mana_cost": "{2}",
 			"mana_value": 2,
 			"types": [
@@ -15087,7 +15111,7 @@
 			"accepted_order": "301",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Pretender's Precipice Den of Debris.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Pretenders Precipice Den of Debris.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -15131,7 +15155,7 @@
 			"accepted_order": "302",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Rallypoint Delta 'Contact Light' Survivor Camp.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Rallypoint Delta Contact Light Survivor Camp.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -15396,7 +15420,7 @@
 			"accepted_order": "308",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Siren's Call Ship Graveyard.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Sirens Call Ship Graveyard.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -15936,7 +15960,7 @@
 			"accepted_order": "320",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bulwark's Ambry.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bulwarks Ambry.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -15981,7 +16005,7 @@
 			"accepted_order": "321",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bulwark's Ambry Wisp Research.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bulwarks Ambry Wisp Research.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -16449,7 +16473,7 @@
 			"accepted_order": "331",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Will-o'-the-wisp.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Will-o-the-wisp.png",
 			"mana_cost": "{4}",
 			"mana_value": 4,
 			"types": [
@@ -16749,7 +16773,7 @@
 			"accepted_order": "338",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Berzerker's Pauldron.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Berzerkers Pauldron.png",
 			"mana_cost": "{2}",
 			"mana_value": 2,
 			"types": [
@@ -17051,7 +17075,7 @@
 			"accepted_order": "345",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Hunter's Harpoon.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Hunters Harpoon.png",
 			"mana_cost": "{2}",
 			"mana_value": 2,
 			"types": [
@@ -17436,7 +17460,7 @@
 			"accepted_order": "353",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/N'kuhana's Opinion.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Nkuhanas Opinion.png",
 			"mana_cost": "{3}",
 			"mana_value": 3,
 			"supertypes": [
@@ -18799,7 +18823,7 @@
 			"accepted_order": "383",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/SautÃ©ed Worms.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Saut%C3%A9ed%20Worms.png",
 			"mana_cost": "{4}",
 			"mana_value": 4,
 			"supertypes": [
@@ -18857,7 +18881,7 @@
 					"name": "Sautéed Worms",
 					"set": "ROR",
 					"collector_number": "383",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/SautÃ©ed Worms.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Saut%C3%A9ed%20Worms.png",
 					"type_line": "Legendary Artifact — Food Equipment",
 					"component": "self"
 				}
@@ -20790,7 +20814,7 @@
 					"name": "Aurelionite's Blessing",
 					"set": "ROR",
 					"collector_number": "56",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Aurelionite's Blessing.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Aurelionites Blessing.png",
 					"type_line": "Artifact — Equipment",
 					"component": "token_maker"
 				},
@@ -20826,7 +20850,7 @@
 					"name": "Ghor's Tome",
 					"set": "ROR",
 					"collector_number": "104",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Ghor's Tome.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Ghors Tome.png",
 					"type_line": "Artifact — Equipment",
 					"component": "token_maker"
 				},
@@ -21531,7 +21555,7 @@
 					"name": "Sautéed Worms",
 					"set": "ROR",
 					"collector_number": "383",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/SautÃ©ed Worms.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Saut%C3%A9ed%20Worms.png",
 					"type_line": "Legendary Artifact — Food Equipment",
 					"component": "token_maker"
 				},
