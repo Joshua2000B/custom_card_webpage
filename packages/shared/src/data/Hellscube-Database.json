@@ -140,7 +140,10 @@
 			"flavor_text": "...and so he left, more steel and circuit than man.",
 			"power": "1",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"W",
+				"U"
+			],
 			"color_identity": [
 				"W",
 				"U"
@@ -296,7 +299,9 @@
 			"type_line": "Enchantment — Aura",
 			"oracle_text": "Enchant Equipment\nAt the beginning of your end step, if enchanted Equipment is attached to a creature, exile it. Then exile cards from the top of your library until you exile an Equipment card. Put that card onto the battlefield and attach Artifact of Enigma to it. Attach that Equipment to the creature that was equipped by the exiled Equipment. Put all cards exiled with Artifact of Enigma on the bottom of your library in a random order.",
 			"flavor_text": "Spawn with a random equipment that changes every time it's activated.",
-			"colors": [],
+			"colors": [
+				"R"
+			],
 			"color_identity": [
 				"R"
 			],
@@ -432,7 +437,9 @@
 			"flavor_text": "...and so it left, with a new hunger: to be left alone.",
 			"power": "1",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"B"
+			],
 			"color_identity": [
 				"B"
 			],
@@ -581,7 +588,10 @@
 			"flavor_text": "...and so he left, with everything but his humanity.",
 			"power": "2",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"R",
+				"W"
+			],
 			"color_identity": [
 				"R",
 				"W"
@@ -642,7 +652,10 @@
 			"flavor_text": "...and so she left, yearning for her next great hunt.",
 			"power": "3",
 			"toughness": "2",
-			"colors": [],
+			"colors": [
+				"B",
+				"R"
+			],
 			"color_identity": [
 				"B",
 				"R"
@@ -703,7 +716,10 @@
 			"flavor_text": "...and so he left, grateful for his luck.",
 			"power": "2",
 			"toughness": "2",
-			"colors": [],
+			"colors": [
+				"B",
+				"R"
+			],
 			"color_identity": [
 				"B",
 				"R"
@@ -815,7 +831,10 @@
 			"flavor_text": "...and so she left, in love with a new passion: to explore.",
 			"power": "3",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"U",
+				"R"
+			],
 			"color_identity": [
 				"U",
 				"R"
@@ -876,7 +895,10 @@
 			"flavor_text": "...and so he left, never to become human again.",
 			"power": "3",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"R",
+				"W"
+			],
 			"color_identity": [
 				"R",
 				"W"
@@ -938,7 +960,9 @@
 			"flavor_text": "...and so it left, ready to grow into something more.",
 			"power": "3",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"G"
+			],
 			"color_identity": [
 				"G"
 			],
@@ -995,7 +1019,9 @@
 			"flavor_text": "...and so she left, heart still racing.",
 			"power": "3",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"R"
+			],
 			"color_identity": [
 				"R"
 			],
@@ -1052,7 +1078,10 @@
 			"flavor_text": "...and so he left, with a new tale to tell.",
 			"power": "2",
 			"toughness": "2",
-			"colors": [],
+			"colors": [
+				"R",
+				"W"
+			],
 			"color_identity": [
 				"R",
 				"W"
@@ -1113,7 +1142,10 @@
 			"flavor_text": "...and so she left, ready to take her shot.",
 			"power": "3",
 			"toughness": "2",
-			"colors": [],
+			"colors": [
+				"B",
+				"R"
+			],
 			"color_identity": [
 				"B",
 				"R"
@@ -1159,7 +1191,10 @@
 			"mana_cost": "{B}{B}{R}",
 			"mana_value": 3,
 			"type_line": "Legendary Creature — Human Eldrazi Survivor // Legendary Creature — Human Eldrazi Survivor",
-			"colors": [],
+			"colors": [
+				"B",
+				"R"
+			],
 			"color_identity": [
 				"B",
 				"R"
@@ -1269,7 +1304,9 @@
 			"type_line": "Enchantment",
 			"oracle_text": "At the beginning of each player's upkeep, that player may attach an unattached Equipment they control to a creature they control.",
 			"flavor_text": "Monsters gain items between stages.",
-			"colors": [],
+			"colors": [
+				"U"
+			],
 			"color_identity": [
 				"U"
 			],
@@ -1313,7 +1350,9 @@
 			"type_line": "Enchantment",
 			"oracle_text": "Nonlegendary creatures get +2/+2.",
 			"flavor_text": "Enemies can only spawn as elites.",
-			"colors": [],
+			"colors": [
+				"W"
+			],
 			"color_identity": [
 				"W"
 			],
@@ -1357,7 +1396,9 @@
 			"type_line": "Enchantment",
 			"oracle_text": "When Artifact of Kin enters the battlefield, choose a creature type.\nEach creature you control is that creature type. The same is true for creature spells you control and creatures cards you own that aren't on the battlefield.",
 			"flavor_text": "Monsters will be of only one type per stage.",
-			"colors": [],
+			"colors": [
+				"U"
+			],
 			"color_identity": [
 				"U"
 			],
@@ -1411,7 +1452,10 @@
 			"flavor_text": "...and so she left, burdened with knowledge.",
 			"power": "2",
 			"toughness": "2",
-			"colors": [],
+			"colors": [
+				"G",
+				"W"
+			],
 			"color_identity": [
 				"G",
 				"W"
@@ -1472,7 +1516,9 @@
 			"flavor_text": "...and so it left, unchanged in every way.",
 			"power": "2",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"G"
+			],
 			"color_identity": [
 				"G"
 			],
@@ -1606,7 +1652,9 @@
 			"flavor_text": "...and so she left, with everything she loved.",
 			"power": "1",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"U"
+			],
 			"color_identity": [
 				"U"
 			],
@@ -1679,7 +1727,9 @@
 			"type_line": "Enchantment",
 			"oracle_text": "A player may choose themself as a target to attack.\nAny effect you control that refers to an opponent includes you as a potential opponent.",
 			"flavor_text": "Friendly fire is enabled for both survivors and monsters alike.",
-			"colors": [],
+			"colors": [
+				"R"
+			],
 			"color_identity": [
 				"R"
 			],
@@ -1723,7 +1773,9 @@
 			"type_line": "Enchantment",
 			"oracle_text": "Whenever a nontoken creature dies, their owner creates a 1/1 black Wisp creature token.",
 			"flavor_text": "Wisps emerge from defeated monsters.",
-			"colors": [],
+			"colors": [
+				"B"
+			],
 			"color_identity": [
 				"B"
 			],
@@ -1793,7 +1845,9 @@
 			"type_line": "Enchantment",
 			"oracle_text": "If an effect would create one or more creature tokens, it creates twice that many of those tokens. These tokens have their base toughness halved (rounded up).",
 			"flavor_text": "Monster spawns are doubled, but monster maximum health is halved.",
-			"colors": [],
+			"colors": [
+				"G"
+			],
 			"color_identity": [
 				"G"
 			],
@@ -1837,7 +1891,9 @@
 			"type_line": "Enchantment",
 			"oracle_text": "If a source would deal damage to a creature, it instead deals double that damage.",
 			"flavor_text": "Allies deal 500% damage, but have 10% health.",
-			"colors": [],
+			"colors": [
+				"R"
+			],
 			"color_identity": [
 				"R"
 			],
@@ -1881,7 +1937,9 @@
 			"type_line": "Enchantment",
 			"oracle_text": "Whenever a creature dies, its owner chooses a creature. That creature is dealt two damage.",
 			"flavor_text": "Enemies drop multiple exploding bombs on death.",
-			"colors": [],
+			"colors": [
+				"B"
+			],
 			"color_identity": [
 				"B"
 			],
@@ -1935,7 +1993,9 @@
 			"flavor_text": "...and so they left, bitterly avenged and deeply lost.",
 			"power": "8",
 			"toughness": "5",
-			"colors": [],
+			"colors": [
+				"B"
+			],
 			"color_identity": [
 				"B"
 			],
@@ -2219,7 +2279,10 @@
 			"type_line": "Artifact",
 			"oracle_text": "{1}, {T}: Put a shrine counter on Shrine of the woods. Activate only if there are fewer than three shrine counters on Shrine of the Woods.\n{T}: You gain life equal to the number of shrine counters on Shrine of the Woods.",
 			"flavor_text": "You are embraced by the healing warmth of the Woods.",
-			"colors": [],
+			"colors": [
+				"G",
+				"W"
+			],
 			"color_identity": [
 				"G",
 				"W"
@@ -2316,7 +2379,9 @@
 			"type_line": "Artifact",
 			"oracle_text": "Shrine of Blood enters with a shrine counter on it.\n{T}: For each shrine counter on Shrine of Blood, create a Treasure token and lose 2 life. Double the number of shrine counters on Shrine of Blood.\nIf Shrine of Blood has 4 shrine counters on it, sacrifice it.",
 			"flavor_text": "You feel a searing pain.",
-			"colors": [],
+			"colors": [
+				"B"
+			],
 			"color_identity": [
 				"B"
 			],
@@ -2431,7 +2496,9 @@
 			"type_line": "Enchantment",
 			"oracle_text": "At the beginning of your upkeep, each player chooses a creature controlled by the player after them in turn order. Those creatures are linked until the beginning of your next upkeep. If any linked creature would die, all linked creatures die instead.",
 			"flavor_text": "When one player dies, everyone dies.",
-			"colors": [],
+			"colors": [
+				"B"
+			],
 			"color_identity": [
 				"B"
 			],
@@ -2513,7 +2580,9 @@
 			"type_line": "Enchantment",
 			"oracle_text": "Whenever you create a nonartifact creature token, you may attach target equipment you control to that token.",
 			"flavor_text": "Give an item to hatch and gain a follower.",
-			"colors": [],
+			"colors": [
+				"W"
+			],
 			"color_identity": [
 				"W"
 			],
@@ -2565,7 +2634,9 @@
 			"flavor_text": "\"Just like standard Earth insects, the Worker Beetles and Beetle Guards all serve a Queen.\"",
 			"power": "1",
 			"toughness": "4",
-			"colors": [],
+			"colors": [
+				"G"
+			],
 			"color_identity": [
 				"G"
 			],
@@ -2860,7 +2931,10 @@
 			"type_line": "Enchantment",
 			"oracle_text": "At the beginning of your upkeep, each opponent may choose a creature controlled by a player other than them. Each opponent who chose a creature this way creates a token that's a copy of that creature. Then you create a token that's a copy of each creature chosen this way.",
 			"flavor_text": "Monsters can appear outside their usual environments.",
-			"colors": [],
+			"colors": [
+				"G",
+				"U"
+			],
 			"color_identity": [
 				"G",
 				"U"
@@ -3502,7 +3576,9 @@
 			"type_line": "Enchantment",
 			"oracle_text": "At the beginning of your end step, if you control fewer than 4 Equipment, you may create a token that's a copy of an Equipment you control. If you control 4 or more Equipment, you may flip a coin. If you win the flip, create a token that's a copy of an Equipment you control. If you lose the flip, destroy target Equipment you control.",
 			"flavor_text": "Risk your items after completing the Teleporter event in a test of memory to gain more items.",
-			"colors": [],
+			"colors": [
+				"U"
+			],
 			"color_identity": [
 				"U"
 			],
@@ -3792,7 +3868,13 @@
 			"oracle_text": "When the UES Safe Travels enters, search your library for a legendary survivor creature, reveal it, put it into your hand, then shuffle.\nStation\n3+ | {3}, {T}: Deal 2 damage to target creature controlled by an opponent.\n10+ | Flying\n5, T: Destroy target creature you control. If you do, destroy target creature.",
 			"power": "5",
 			"toughness": "5",
-			"colors": [],
+			"colors": [
+				"W",
+				"U",
+				"B",
+				"R",
+				"G"
+			],
 			"color_identity": [
 				"W",
 				"U",
@@ -3850,7 +3932,10 @@
 			"mana_cost": "{4}{G}{W}{W}{W}",
 			"mana_value": 8,
 			"type_line": "Legendary Enchantment // Legendary Creature — God",
-			"colors": [],
+			"colors": [
+				"G",
+				"W"
+			],
 			"color_identity": [
 				"G",
 				"W"
@@ -3984,7 +4069,9 @@
 			"mana_cost": "{3}{R}{R}{R}",
 			"mana_value": 6,
 			"type_line": "Legendary Enchantment // Legendary Creature — God",
-			"colors": [],
+			"colors": [
+				"R"
+			],
 			"color_identity": [
 				"R"
 			],
@@ -4133,7 +4220,9 @@
 			"type_line": "Artifact — Equipment",
 			"oracle_text": "Whenever equipped creature blocks, Queen's Gland becomes a 3/3 green Insect artifact creature until end of combat. Queen's Gland blocks the same creature.\nIf Queen's Gland would die, instead remove it from combat, it stops being a creature, and it becomes unattached from equipped creature.\nEquip {1}{G}",
 			"flavor_text": "\"I just kinda left and they've been following me ever since.\"",
-			"colors": [],
+			"colors": [
+				"G"
+			],
 			"color_identity": [
 				"G"
 			],
@@ -4413,7 +4502,9 @@
 			"flavor_text": "The worm's body is incredibly conductive, retaining temperatures of over 350 degrees Fahrenheit for over ten hours after the beast was felled.",
 			"power": "3",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"R"
+			],
 			"color_identity": [
 				"R"
 			],
@@ -4468,7 +4559,9 @@
 			"flavor_text": "\"...And upon a great serpent, the hero did ride. Majesty and respect were his command, and so too his steed.\"",
 			"power": "5",
 			"toughness": "5",
-			"colors": [],
+			"colors": [
+				"R"
+			],
 			"color_identity": [
 				"R"
 			],
@@ -4846,7 +4939,13 @@
 			"type_line": "Artifact — Equipment",
 			"oracle_text": "Equipped creature gets +3/+3 and has haste, first strike, and \"{T}: Gain 3 life.\"\nEquip {3}",
 			"flavor_text": "\"Oh, that is... strange. That is unlike the other pearls. Do not be mistaken– his influence is still dark.\"",
-			"colors": [],
+			"colors": [
+				"W",
+				"U",
+				"B",
+				"R",
+				"G"
+			],
 			"color_identity": [
 				"W",
 				"U",
@@ -4911,7 +5010,10 @@
 			"type_line": "Artifact — Equipment",
 			"oracle_text": "Equipped creature gets +2/+0 and has lifelink.\nEquip {B}{R}",
 			"flavor_text": "#NAME?",
-			"colors": [],
+			"colors": [
+				"B",
+				"R"
+			],
 			"color_identity": [
 				"B",
 				"R"
@@ -5497,7 +5599,10 @@
 			"flavor_text": "\"CHIT CHIT CHIT CHIT CHIT CHIT CHIT CHIT CHIT I-I neED CHIT CHIT CHIT chit chit chit CHIT\"",
 			"power": "3",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"B",
+				"R"
+			],
 			"color_identity": [
 				"B",
 				"R"
@@ -5622,7 +5727,10 @@
 			"flavor_text": "That spark was quickly extinguished in a hail of bullets.",
 			"power": "4",
 			"toughness": "4",
-			"colors": [],
+			"colors": [
+				"B",
+				"R"
+			],
 			"color_identity": [
 				"B",
 				"R"
@@ -6068,7 +6176,10 @@
 			"flavor_text": "\"...are the stars at night on this planet truly stars, or just more Vagrants?",
 			"power": "3",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"U",
+				"R"
+			],
 			"color_identity": [
 				"U",
 				"R"
@@ -6166,7 +6277,10 @@
 			"type_line": "Artifact — Equipment",
 			"oracle_text": "Whenever equipped creature blocks, if it is dealt damage and survives, it deals 1 damage to each attacking creature.\nEquip {U}{R}",
 			"flavor_text": "> I hope I don't get in trouble for this",
-			"colors": [],
+			"colors": [
+				"U",
+				"R"
+			],
 			"color_identity": [
 				"U",
 				"R"
@@ -6620,7 +6734,9 @@
 			"flavor_text": "\"The Gup's slime is intensely aromatic, smelling much like strawberry and other fruits.\"",
 			"power": "4",
 			"toughness": "4",
-			"colors": [],
+			"colors": [
+				"G"
+			],
 			"color_identity": [
 				"G"
 			],
@@ -6781,7 +6897,9 @@
 			"flavor_text": "\"It attacks from exclusively long-range by expelling balls of mucus and body waste\"",
 			"power": "0",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"U"
+			],
 			"color_identity": [
 				"U"
 			],
@@ -7068,7 +7186,10 @@
 			"flavor_text": "\"These Jellyfish can ignite those gases and explode, scorching everything nearby.\"",
 			"power": "0",
 			"toughness": "1",
-			"colors": [],
+			"colors": [
+				"U",
+				"R"
+			],
 			"color_identity": [
 				"U",
 				"R"
@@ -7121,7 +7242,9 @@
 			"flavor_text": "\"I have assigned their common name as \"˜Forhamian Acid Tick.'\"",
 			"power": "1",
 			"toughness": "1",
-			"colors": [],
+			"colors": [
+				"G"
+			],
 			"color_identity": [
 				"G"
 			],
@@ -7170,7 +7293,10 @@
 			"flavor_text": "\"\"˜Mini' is a relative term here, as these mobile mushrooms were larger than Tharson.\"",
 			"power": "0",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"B",
+				"G"
+			],
 			"color_identity": [
 				"B",
 				"G"
@@ -8271,7 +8397,10 @@
 			"flavor_text": "\"Have you noticed the beasts near the outpost acting strangely?\"",
 			"power": "1",
 			"toughness": "1",
-			"colors": [],
+			"colors": [
+				"U",
+				"B"
+			],
 			"color_identity": [
 				"U",
 				"B"
@@ -9034,7 +9163,10 @@
 			"flavor_text": "Oh my god... I've never seen anything like it. Wow, amazing. It's so bright. I can't believe something like this exists in the world.",
 			"power": "1",
 			"toughness": "4",
-			"colors": [],
+			"colors": [
+				"R",
+				"W"
+			],
 			"color_identity": [
 				"R",
 				"W"
@@ -9699,7 +9831,9 @@
 			"flavor_text": "\"To this day, the vanishing of the Saturnian Bison remains as one of zoology's greatest mysteries.\"",
 			"power": "3",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"G"
+			],
 			"color_identity": [
 				"G"
 			],
@@ -9797,7 +9931,9 @@
 			"flavor_text": "\"How fascinatingly foul.\"",
 			"power": "3",
 			"toughness": "1",
-			"colors": [],
+			"colors": [
+				"B"
+			],
 			"color_identity": [
 				"B"
 			],
@@ -9846,7 +9982,9 @@
 			"flavor_text": "\"Their terrible odor cannot be understated. Even through our suits' filters, we could still smell a foul odor, reminiscent of rotting flesh and excrement.\"",
 			"power": "2",
 			"toughness": "2",
-			"colors": [],
+			"colors": [
+				"B"
+			],
 			"color_identity": [
 				"B"
 			],
@@ -9939,7 +10077,10 @@
 			"flavor_text": "\"I don't know how else to describe them, they seem so innocent until I approach.\"",
 			"power": "2",
 			"toughness": "2",
-			"colors": [],
+			"colors": [
+				"R",
+				"W"
+			],
 			"color_identity": [
 				"R",
 				"W"
@@ -9992,7 +10133,10 @@
 			"flavor_text": "\"The Tar's history is unimportant. What well or crevice it first flowed from doesn't matter; only that the Tar flows.\"",
 			"power": "3",
 			"toughness": "5",
-			"colors": [],
+			"colors": [
+				"B",
+				"R"
+			],
 			"color_identity": [
 				"B",
 				"R"
@@ -10806,7 +10950,9 @@
 			"type_line": "Enchantment — Aura",
 			"oracle_text": "Enchant creature\nAt the beginning of each end step, enchanted creature becomes a copy of another target creature.",
 			"flavor_text": "Players always spawn as a random survivor.",
-			"colors": [],
+			"colors": [
+				"G"
+			],
 			"color_identity": [
 				"G"
 			],
@@ -11438,7 +11584,13 @@
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"mana_value": 5,
 			"type_line": "Legendary Artifact — Spacecraft // Legendary Artifact Land",
-			"colors": [],
+			"colors": [
+				"W",
+				"U",
+				"B",
+				"R",
+				"G"
+			],
 			"color_identity": [
 				"W",
 				"U",
@@ -11777,7 +11929,10 @@
 			"type_line": "Creature — Alien",
 			"oracle_text": "Vigilance, trample",
 			"flavor_text": "I had Tharson throw a stone near the creature and suddenly any signs of intelligence faded, replaced with primal fury.",
-			"colors": [],
+			"colors": [
+				"R",
+				"W"
+			],
 			"color_identity": [
 				"R",
 				"W"
@@ -11830,7 +11985,10 @@
 			"flavor_text": "ONE MASK. SMALL.\nAH, HELLO LITTLE ONE. WELCOME TO LIFE.",
 			"power": "2",
 			"toughness": "1",
-			"colors": [],
+			"colors": [
+				"B",
+				"G"
+			],
 			"color_identity": [
 				"B",
 				"G"
@@ -11884,7 +12042,10 @@
 			"flavor_text": "Do not worry about the [barnacles] growing on the hull of your vessel.",
 			"power": "2",
 			"toughness": "2",
-			"colors": [],
+			"colors": [
+				"U",
+				"B"
+			],
 			"color_identity": [
 				"U",
 				"B"
@@ -12139,7 +12300,10 @@
 			"flavor_text": "Capable of breathing flame, even managing to hit Tharson in the chest from a distance with a fire ball. Tharson is OK from this encounter.",
 			"power": "2",
 			"toughness": "2",
-			"colors": [],
+			"colors": [
+				"W",
+				"U"
+			],
 			"color_identity": [
 				"W",
 				"U"
@@ -12319,7 +12483,9 @@
 			"type_line": "Artifact",
 			"oracle_text": "{T}: Regenerate all creatures you control. Sacrifice Shrine of Shaping.",
 			"flavor_text": "Your soul feels lighter.",
-			"colors": [],
+			"colors": [
+				"W"
+			],
 			"color_identity": [
 				"W"
 			],
@@ -12465,7 +12631,10 @@
 			"type_line": "Artifact",
 			"oracle_text": "{T}: Target opponent creates a token that's a copy of each of up to three target creatures they control. Up to three target creatures you control each fight a different one of those tokens.",
 			"flavor_text": "You have summoned monsters to fight.",
-			"colors": [],
+			"colors": [
+				"B",
+				"R"
+			],
 			"color_identity": [
 				"B",
 				"R"
@@ -14446,7 +14615,10 @@
 			"type_line": "Artifact — Equipment",
 			"oracle_text": "Whenever equipped creature takes damage, gain 1 life.\nEquip {R}{W}",
 			"flavor_text": "\"And the grandparent is the youngest?\" \"Younger than the child, yes. But not the youngest.\" \"Who is the youngest?\" \"The parent.\"",
-			"colors": [],
+			"colors": [
+				"R",
+				"W"
+			],
 			"color_identity": [
 				"R",
 				"W"
@@ -14501,7 +14673,10 @@
 			"flavor_text": "YOU KNOW WHAT YOU MUST DO, YES? GOOD. GO... GO AND PROTECT OUR GARDEN.",
 			"power": "2",
 			"toughness": "4",
-			"colors": [],
+			"colors": [
+				"B",
+				"G"
+			],
 			"color_identity": [
 				"B",
 				"G"
@@ -14555,7 +14730,10 @@
 			"flavor_text": "Saved by [the hero], our paradise was one of sprawling tunnels and rich caves. Making our home in the depths of paradise, we began constructing a great civilization.",
 			"power": "4",
 			"toughness": "4",
-			"colors": [],
+			"colors": [
+				"W",
+				"U"
+			],
 			"color_identity": [
 				"W",
 				"U"
@@ -14609,7 +14787,10 @@
 			"flavor_text": "\"You have been detained. Await your sentence at the end of Time.\"",
 			"power": "1",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"U",
+				"B"
+			],
 			"color_identity": [
 				"U",
 				"B"
@@ -14666,7 +14847,10 @@
 			"flavor_text": "\"If I were to look upon a being of such power... I'd cut my losses and run.\"",
 			"power": "4",
 			"toughness": "4",
-			"colors": [],
+			"colors": [
+				"U",
+				"B"
+			],
 			"color_identity": [
 				"U",
 				"B"
@@ -15975,7 +16159,10 @@
 			"type_line": "Artifact",
 			"oracle_text": "{T}: Attach target Equipment you control to Shrine of Rebirth as though Shrine of Rebirth were a creature. This attachment doesn't require you to pay its equip cost.\nWhenever a creature enters the battlefield under your control, you may sacrifice Shrine of Rebirth. If you do, attach all Equipment attached to Shrine of Rebirth to that creature.",
 			"flavor_text": "Descend to Petrichor V with a gift from a previous life.",
-			"colors": [],
+			"colors": [
+				"W",
+				"U"
+			],
 			"color_identity": [
 				"W",
 				"U"
@@ -16254,7 +16441,10 @@
 			"flavor_text": "\"We almost got rid of it.\"",
 			"power": "8",
 			"toughness": "8",
-			"colors": [],
+			"colors": [
+				"U",
+				"B"
+			],
 			"color_identity": [
 				"U",
 				"B"
@@ -16311,7 +16501,10 @@
 			"flavor_text": "As you struggle against the void, you may find that every path you take just brings you deeper, deeper, yet deeper.",
 			"power": "3",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"U",
+				"B"
+			],
 			"color_identity": [
 				"U",
 				"B"
@@ -18138,7 +18331,10 @@
 			"type_line": "Artifact — Equipment",
 			"oracle_text": "If equipped creature has haste or vigilance, whenever it is declared as an attacker, deal 3 damage to target creature.\nEquip {B}{G}",
 			"flavor_text": "HERE - TWO COILS OF DENKU ROPE. THOSE ARE FOR STRENGTH.\nHERE - FOUR CARDS OF OBSIDIAN. THOSE ARE FOR SELF-CONFIDENCE.",
-			"colors": [],
+			"colors": [
+				"B",
+				"G"
+			],
 			"color_identity": [
 				"B",
 				"G"
@@ -18234,7 +18430,9 @@
 			"type_line": "Artifact — Equipment",
 			"oracle_text": "When equipped creature attacks, it can target and deal damage as though defending creatures and players didn't have protection.\nEquip {R}{R}",
 			"flavor_text": "> Put some more ice in my drink WOW it's hot\n> Timestamping for break",
-			"colors": [],
+			"colors": [
+				"R"
+			],
 			"color_identity": [
 				"R"
 			],
@@ -18283,7 +18481,9 @@
 			"type_line": "Artifact — Equipment",
 			"oracle_text": "Equipped creature can damage, block, and target creatures and players as though they didn't have protection.\nEquip {R}{R}",
 			"flavor_text": "> Put some more ice in my drink WOW it's electric\n> Timestamping for dance break",
-			"colors": [],
+			"colors": [
+				"R"
+			],
 			"color_identity": [
 				"R"
 			],
@@ -18375,7 +18575,9 @@
 			"type_line": "Artifact — Equipment",
 			"oracle_text": "If a creature with a bleed counter on it dies, put a bleed counter on all other creatures its owner controls.\nEquip {B}{B}",
 			"flavor_text": "> Third attempt aborted after I injured my hand\n> Eventually was able to stop my own bleeding. The organ seems to contain immense anticoagulant properties.",
-			"colors": [],
+			"colors": [
+				"B"
+			],
 			"color_identity": [
 				"B"
 			],
@@ -19018,7 +19220,9 @@
 			"flavor_text": "\"Curse this place - and curse its master. May we find a way to send word to the homeworld of our plight -and may the great emperor deign to come forth and grant this \"deity\" a swift death.\"",
 			"power": "1",
 			"toughness": "2",
-			"colors": [],
+			"colors": [
+				"B"
+			],
 			"color_identity": [
 				"B"
 			],
@@ -19067,7 +19271,9 @@
 			"flavor_text": "\"I watch in fascination as it crunches effortlessly into thin golden veins of material hidden in the rock.\"",
 			"power": "2",
 			"toughness": "2",
-			"colors": [],
+			"colors": [
+				"R"
+			],
 			"color_identity": [
 				"R"
 			],
@@ -19119,7 +19325,10 @@
 			"flavor_text": "NOW, I BELIEVE IT IS TIME TO RETURN TO WORK. COME, LITTLE ONES! LET US TEND TO OUR GARDEN.",
 			"power": "3",
 			"toughness": "3",
-			"colors": [],
+			"colors": [
+				"B",
+				"G"
+			],
 			"color_identity": [
 				"B",
 				"G"
@@ -19204,7 +19413,9 @@
 			"flavor_text": "\"...A GUARDIAN, YOU SAY. VERY WELL. REINFORCEMENTS WILL BE DISPATCHED.\"",
 			"power": "3",
 			"toughness": "4",
-			"colors": [],
+			"colors": [
+				"B"
+			],
 			"color_identity": [
 				"B"
 			],
@@ -19251,7 +19462,9 @@
 			"type_line": "Artifact",
 			"oracle_text": "{T}: Activate only after blockers have been declared. Whenever a creature blocks this turn, it gets +0/+2 until end of turn. Whenever a creature that blocked this turn dies, create a Treasure token. At the beginning of the next end step, sacrifice Shrine of the Mountain.",
 			"flavor_text": "Let the challenge of the Mountain... begin!",
-			"colors": [],
+			"colors": [
+				"R"
+			],
 			"color_identity": [
 				"R"
 			],
@@ -19321,7 +19534,9 @@
 			"type_line": "Enchantment",
 			"oracle_text": "Whenever a creature blocks, it gets +0/+X until end of turn, where X is twice the number of loop counters on Artifact of Prestige.\nWhenever a creature that blocked this turn dies, the active player creates a Treasure token.\nAt the beginning of your end step, put a loop counter on Artifact of Prestige.",
 			"flavor_text": "At least one Shrine of the Mountain spawns every stage. Shrine of the Mountain effects are permanent.",
-			"colors": [],
+			"colors": [
+				"R"
+			],
 			"color_identity": [
 				"R"
 			],
@@ -19391,7 +19606,10 @@
 			"type_line": "Enchantment",
 			"oracle_text": "Whenever one of your creatures deals lethal damage to another creature, flip a coin. If you win the flip, you may put an Equipment from your graveyard into your hand.",
 			"flavor_text": "Monsters drop items on death, but Chests no longer spawn.",
-			"colors": [],
+			"colors": [
+				"U",
+				"B"
+			],
 			"color_identity": [
 				"U",
 				"B"
