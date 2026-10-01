@@ -3936,7 +3936,7 @@
 					"name": "Gilded Wurm, Black",
 					"set": "HCT",
 					"collector_number": "10",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Gilded Wurm, Black.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Gilded Wurm Black.png",
 					"type_line": "Token Legendary Creature — Worm",
 					"component": "token"
 				},
@@ -3948,7 +3948,7 @@
 					"name": "Gilded Wurm, Red",
 					"set": "HCT",
 					"collector_number": "11",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Gilded Wurm, Red.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Gilded Wurm Red.png",
 					"type_line": "Token Legendary Creature — Worm",
 					"component": "token"
 				},
@@ -20058,7 +20058,7 @@
 			"accepted_order": "10",
 			"layout": "token",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Gilded Wurm, Black.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Gilded Wurm Black.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -20115,7 +20115,7 @@
 					"name": "Gilded Wurm, Black",
 					"set": "HCT",
 					"collector_number": "10",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Gilded Wurm, Black.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Gilded Wurm Black.png",
 					"type_line": "Token Legendary Creature — Worm",
 					"component": "self"
 				}
@@ -20133,7 +20133,7 @@
 			"accepted_order": "11",
 			"layout": "token",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Gilded Wurm, Red.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Gilded Wurm Red.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -20190,7 +20190,7 @@
 					"name": "Gilded Wurm, Red",
 					"set": "HCT",
 					"collector_number": "11",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Gilded Wurm, Red.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Gilded Wurm Red.png",
 					"type_line": "Token Legendary Creature — Worm",
 					"component": "self"
 				}
