@@ -5064,7 +5064,7 @@
 				"Desert"
 			],
 			"type_line": "Land — Desert",
-			"oracle_text": "{T}: Add {C}.\n{T}, Pay 5 life: Add {R}{R}",
+			"oracle_text": "{T}: Add {C}.\n{T}, Pay 5 life: Add {R}{R}.",
 			"flavor_text": "You dream of sand beneath your feet.",
 			"colors": [],
 			"color_identity": [
@@ -5108,7 +5108,7 @@
 				"Land"
 			],
 			"type_line": "Land",
-			"oracle_text": "{T}: Add {C}.\n{T}, Remove two +1/+1 counters from target creature you control: Add {W}{W}",
+			"oracle_text": "{T}: Add {C}.\n{T}, Remove two +1/+1 counters from target creature you control: Add {W}{W}.",
 			"flavor_text": "You dream of clarity.",
 			"colors": [],
 			"color_identity": [
@@ -5503,7 +5503,7 @@
 				"Land"
 			],
 			"type_line": "Legendary Artifact Land",
-			"oracle_text": "{T}, Pay 2 life: Add {C}{C}",
+			"oracle_text": "{T}, Pay 2 life: Add {C}{C}.",
 			"flavor_text": "\"No matter what they call you, you are not their savior. You are their ruin.\"",
 			"colors": [],
 			"color_identity": [],
@@ -5548,7 +5548,7 @@
 				"Land"
 			],
 			"type_line": "Legendary Artifact Land",
-			"oracle_text": "{T}, Remove a +1/+1 counters from target creature you control: Add {C}{C}",
+			"oracle_text": "{T}, Remove a +1/+1 counters from target creature you control: Add {C}{C}.",
 			"flavor_text": "\"Do you not see the gulf beginning to take shape between us? Do you not feel it?\nI do.\"",
 			"colors": [],
 			"color_identity": [],
@@ -6138,7 +6138,7 @@
 						"Land"
 					],
 					"type_line": "Legendary Land",
-					"oracle_text": "{T}: Add {W}{U}{B}{R}{G}",
+					"oracle_text": "{T}: Add {W}{U}{B}{R}{G}.",
 					"flavor_text": "\"You will find yourself at peace, and more importantly, my servant, in a realm overlooked by the design of my coming reprisal.\"",
 					"colors": [],
 					"frame_effects": [
@@ -15290,7 +15290,7 @@
 				"Land"
 			],
 			"type_line": "Land",
-			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice a creature: Add {B}{B}",
+			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice a creature: Add {B}{B}.",
 			"flavor_text": "You dream of twisting roots.",
 			"colors": [],
 			"color_identity": [
@@ -15337,7 +15337,7 @@
 				"Land"
 			],
 			"type_line": "Snow Land",
-			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice an artifact: Add {C}{C}",
+			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice an artifact: Add {C}{C}.",
 			"flavor_text": "You dream of frost and metal.",
 			"colors": [],
 			"color_identity": [],
@@ -15381,7 +15381,7 @@
 				"Land"
 			],
 			"type_line": "Snow Land",
-			"oracle_text": "{T}: Add {C}.\n{T}, Discard two cards: Add {U}{U}",
+			"oracle_text": "{T}: Add {C}.\n{T}, Discard two cards: Add {U}{U}.",
 			"flavor_text": "You dream of quiet snowfall.",
 			"colors": [],
 			"color_identity": [
@@ -15428,7 +15428,7 @@
 				"Land"
 			],
 			"type_line": "Land",
-			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice a land: Add {G}{G}",
+			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice a land: Add {G}{G}.",
 			"flavor_text": "You dream of vines, cutting through the sky.",
 			"colors": [],
 			"color_identity": [
