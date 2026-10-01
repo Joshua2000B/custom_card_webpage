@@ -331,13 +331,13 @@ export const HellfallCard = ({
               <br />
               <LinkButton
                 colors={inputButtonColors}
-                to={`/api/cards/${encodeURIComponent(displayCard.id)}?format=text`}
+                to={`/card/${encodeURIComponent(displayCard.hcid)}?format=text`}
               >
                 Copy-pasteable Text
               </LinkButton>
               <LinkButton
                 colors={inputButtonColors}
-                to={`/api/cards/${encodeURIComponent(displayCard.id)}?format=json`}
+                to={`/card/${encodeURIComponent(displayCard.hcid)}?format=json`}
               >
                 Copy-pasteable JSON
               </LinkButton>

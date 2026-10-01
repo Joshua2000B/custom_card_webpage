@@ -1,11 +1,9 @@
 /**
- * Direct URL for the card catalog JSON ({ data: HCCard[] }).
- * Set CARD_CATALOG_URL in .env — browser fetch must go here directly (GCS/CDN).
+ * Optional direct URL for a card catalog JSON ({ data: HCCard[] }).
+ * When unset, the frontend loads its bundled card database.
  */
-const DEFAULT_CATALOG_URL = 'https://storage.googleapis.com/hellscube-images/catalog.json';
-
 export function getCardsCatalogUrl(): string {
-  return process.env.CARD_CATALOG_URL?.trim() || DEFAULT_CATALOG_URL;
+  return process.env.CARD_CATALOG_URL?.trim() ?? '';
 }
 
 /** Public GCS manifest next to catalog.json (`{ version, cardCount }`). */
