@@ -478,8 +478,8 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Aegis.png",
-			"mana_cost": "{5}",
-			"mana_value": 5,
+			"mana_cost": "{2}",
+			"mana_value": 2,
 			"supertypes": [
 				"Legendary"
 			],
@@ -490,7 +490,7 @@
 				"Equipment"
 			],
 			"type_line": "Legendary Artifact — Equipment",
-			"oracle_text": "At the beginning of each combat, equipped creature gains +0/+X until end of turn, where X is equal to half of its toughness.\nEquip {3}",
+			"oracle_text": "At the beginning of each combat, equipped creature gains +0/+X until end of turn, where X is equal to half of its toughness, rounded up.\nEquip {2}",
 			"flavor_text": "\"I am the will to survive made manifest.\"",
 			"colors": [],
 			"color_identity": [],
@@ -536,7 +536,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "When equipped creature is blocked by a legendary creature, equipped creature gets +2/+0 until end of turn.\nEquip {1}",
+			"oracle_text": "When equipped creature is blocked by a legendary creature, equipped creature gets +2/+0 until end of turn.\nEquip {0}",
 			"flavor_text": "\"Could you guys look into this so we don't like, violate any Geneva Conventions or anything?\"",
 			"colors": [],
 			"color_identity": [],
@@ -584,7 +584,7 @@
 				"Survivor"
 			],
 			"type_line": "Legendary Creature — Human Soldier Survivor",
-			"oracle_text": "Equip costs to attach Equipment to Commando are reduced by {2}.",
+			"oracle_text": "Equip abilities you activate that target this creature cost {2} less to activate.",
 			"flavor_text": "...and so he left, with everything but his humanity.",
 			"power": "2",
 			"toughness": "3",
@@ -1074,7 +1074,7 @@
 				"Survivor"
 			],
 			"type_line": "Legendary Creature — Human Elder Survivor",
-			"oracle_text": "When Captain enters, you may search your library for a card named Defensive Microbots. Put it onto the battlefield attached to Captain.\n{1}: The next 2 damage that would be dealt to target creature you control this turn is dealt to this creature instead.",
+			"oracle_text": "When Captain enters, you may search your library for a card named Defensive Microbots. Then shuffle your library. Put it onto the battlefield attached to Captain.\n{1}: The next 2 damage that would be dealt to target creature you control this turn is dealt to this creature instead.",
 			"flavor_text": "...and so he left, with a new tale to tell.",
 			"power": "2",
 			"toughness": "2",
@@ -1296,7 +1296,7 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Artifact of Evolution.png",
-			"mana_cost": "{U}",
+			"mana_cost": "{R/W}",
 			"mana_value": 1,
 			"types": [
 				"Enchantment"
@@ -1305,14 +1305,17 @@
 			"oracle_text": "At the beginning of each player's upkeep, that player may attach an unattached Equipment they control to a creature they control.",
 			"flavor_text": "Monsters gain items between stages.",
 			"colors": [
-				"U"
+				"R",
+				"W"
 			],
 			"color_identity": [
-				"U"
+				"R",
+				"W"
 			],
 			"color_identity_hybrid": [
 				[
-					"U"
+					"R",
+					"W"
 				]
 			],
 			"keywords": [],
@@ -1342,8 +1345,8 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Artifact of Honor.png",
-			"mana_cost": "{1}{W}",
-			"mana_value": 2,
+			"mana_cost": "{2}{W}",
+			"mana_value": 3,
 			"types": [
 				"Enchantment"
 			],
@@ -1388,8 +1391,8 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Artifact of Kin.png",
-			"mana_cost": "{U}{U}",
-			"mana_value": 2,
+			"mana_cost": "{U}{U}{U}",
+			"mana_value": 3,
 			"types": [
 				"Enchantment"
 			],
@@ -1843,7 +1846,7 @@
 				"Enchantment"
 			],
 			"type_line": "Enchantment",
-			"oracle_text": "If an effect would create one or more creature tokens, it creates twice that many of those tokens. These tokens have their base toughness halved (rounded up).",
+			"oracle_text": "If an effect would create one or more creature tokens, it creates twice that many of those tokens. These tokens have their base toughness halved, rounded up.",
 			"flavor_text": "Monster spawns are doubled, but monster maximum health is halved.",
 			"colors": [
 				"G"
@@ -1935,7 +1938,7 @@
 				"Enchantment"
 			],
 			"type_line": "Enchantment",
-			"oracle_text": "Whenever a creature dies, its owner chooses a creature. That creature is dealt two damage.",
+			"oracle_text": "Whenever a creature dies, its owner targets a creature. That creature is dealt two damage.",
 			"flavor_text": "Enemies drop multiple exploding bombs on death.",
 			"colors": [
 				"B"
@@ -2534,17 +2537,30 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Artifact of Command.png",
-			"mana_cost": "{4}",
+			"mana_cost": "{2}{R}{W}",
 			"mana_value": 4,
 			"types": [
 				"Enchantment"
 			],
 			"type_line": "Enchantment",
-			"oracle_text": "If you would draw a card during your draw step, you may instead search your library for an Equipment card, reveal it, put it into your hand, then shuffle.",
+			"oracle_text": "If you would draw your first card during your draw step, you may instead search your library for an Equipment card, reveal it, put it into your hand, then shuffle.",
 			"flavor_text": "Choose your items.",
-			"colors": [],
-			"color_identity": [],
-			"color_identity_hybrid": [],
+			"colors": [
+				"R",
+				"W"
+			],
+			"color_identity": [
+				"R",
+				"W"
+			],
+			"color_identity_hybrid": [
+				[
+					"R"
+				],
+				[
+					"W"
+				]
+			],
 			"keywords": [],
 			"legalities": {
 				"standard": "legal",
@@ -3189,8 +3205,8 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Aurelionites Blessing.png",
-			"mana_cost": "{2}",
-			"mana_value": 2,
+			"mana_cost": "{3}",
+			"mana_value": 3,
 			"types": [
 				"Artifact"
 			],
@@ -3198,7 +3214,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "When equipped creature deals damage, create a Treasure token.\n{T}: Create a Treasure token.\nEquip {2}",
+			"oracle_text": "When equipped creature deals damage, create a tapped Treasure token.\n{T}: Create a Treasure token.\nEquip {3}",
 			"flavor_text": "Become an aspect of radiance.",
 			"colors": [],
 			"color_identity": [],
@@ -5064,7 +5080,7 @@
 				"Desert"
 			],
 			"type_line": "Land — Desert",
-			"oracle_text": "{T}: Add {C}.\n{T}, Pay 5 life: Add {R}{R}.",
+			"oracle_text": "This land enters tapped.\n{T}: Add {C}.\n{T}, Pay 5 life: Add {R}{R}.",
 			"flavor_text": "You dream of sand beneath your feet.",
 			"colors": [],
 			"color_identity": [
@@ -5155,7 +5171,7 @@
 				"Land"
 			],
 			"type_line": "Legendary Land",
-			"oracle_text": "{T}: Exile cards from the top of your library until you exile a Lunar artifact card. Put that card into your hand. Shuffle the exiled cards into your library.\n{T}, Sacrifice this: Search your library for a nonbasic land card, put it on the battlefield tapped, then shuffle.",
+			"oracle_text": "{T}, Sacrifice this: Exile cards from the top of your library until you exile a Lunar artifact card. Put that card into your hand. Shuffle the exiled cards into your library.\n{T}, Sacrifice this: Search your library for a nonbasic land card, put it on the battlefield tapped, then shuffle.",
 			"flavor_text": "He didn't notice that all the flyfish were gone.\nHe didn't notice the blue glow.\nHe didn't notice the long, pale arms, grasping in the depths below.",
 			"colors": [],
 			"color_identity": [],
@@ -5386,7 +5402,7 @@
 				"Equipment"
 			],
 			"type_line": "Legendary Artifact — Equipment",
-			"oracle_text": "Equipped creature gets +3/+0 and has menace.\nEquip {3}",
+			"oracle_text": "Equipped creature gets +3/+0 and has menace.\nEquip {2}",
 			"flavor_text": "\"Nothing, and I mean NOTHING, is as timeless as gunpowder.\"",
 			"colors": [],
 			"color_identity": [],
@@ -5503,7 +5519,7 @@
 				"Land"
 			],
 			"type_line": "Legendary Artifact Land",
-			"oracle_text": "{T}, Pay 2 life: Add {C}{C}.",
+			"oracle_text": "This land enters tapped.\n{T}, Pay 2 life: Add {C}{C}.",
 			"flavor_text": "\"No matter what they call you, you are not their savior. You are their ruin.\"",
 			"colors": [],
 			"color_identity": [],
@@ -5583,8 +5599,8 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Clay Dunestrider.png",
-			"mana_cost": "{3}{B}{R}",
-			"mana_value": 5,
+			"mana_cost": "{1}{B}{R}",
+			"mana_value": 3,
 			"supertypes": [
 				"Legendary"
 			],
@@ -6893,7 +6909,7 @@
 				"Crab"
 			],
 			"type_line": "Creature — Crab",
-			"oracle_text": "Defender\n{T}: Deal 3 damage to target creature.",
+			"oracle_text": "Defender\n{T}: Deal 1 damage to target creature.",
 			"flavor_text": "\"It attacks from exclusively long-range by expelling balls of mucus and body waste\"",
 			"power": "0",
 			"toughness": "3",
@@ -7072,8 +7088,8 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/False Son Eye of the Storm.png",
-			"mana_cost": "{8}",
-			"mana_value": 8,
+			"mana_cost": "{6}",
+			"mana_value": 6,
 			"supertypes": [
 				"Legendary"
 			],
@@ -8708,8 +8724,8 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Crowbar.png",
-			"mana_cost": "{3}",
-			"mana_value": 3,
+			"mana_cost": "{2}",
+			"mana_value": 2,
 			"types": [
 				"Artifact"
 			],
@@ -8837,8 +8853,8 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Backup Magazine.png",
-			"mana_cost": "{2}",
-			"mana_value": 2,
+			"mana_cost": "{0}",
+			"mana_value": 0,
 			"types": [
 				"Artifact"
 			],
@@ -8846,7 +8862,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Equipped creature has vigilance.\nEquip {2}",
+			"oracle_text": "Equipped creature has vigilance.\nEquip {1}",
 			"flavor_text": "\"You going on a hunting trip or something? I've never seen anyone order this much ammo before.\"",
 			"colors": [],
 			"color_identity": [],
@@ -9689,7 +9705,7 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Chronic Expansion.png",
-			"mana_cost": "{2}",
+			"mana_cost": "{1}{R}",
 			"mana_value": 2,
 			"types": [
 				"Artifact"
@@ -9700,9 +9716,17 @@
 			"type_line": "Artifact — Equipment",
 			"oracle_text": "Equipped creature gets +1/+0 for each kill counter on Chronic Expansion.\nEvery time equipped creature deals lethal damage to another creature, add a kill counter to Chronic Expansion.\nAt the end of combat on your turn, if equipped creature didn't attack this combat, remove all kill counters from Chronic Expansion.\nEquip {2}",
 			"flavor_text": "If this trial goes well, and their lungs return to normal, I'll clear them for duty.",
-			"colors": [],
-			"color_identity": [],
-			"color_identity_hybrid": [],
+			"colors": [
+				"R"
+			],
+			"color_identity": [
+				"R"
+			],
+			"color_identity_hybrid": [
+				[
+					"R"
+				]
+			],
 			"keywords": [
 				"equip"
 			],
@@ -9786,8 +9810,8 @@
 			"type_line": "Creature — Bird",
 			"oracle_text": "Flying\nSolus creatures you control gain +1/+1.",
 			"flavor_text": "\"Did I leave out the part about the robot? The [REDACTED] flying robot they have?\"",
-			"power": "3",
-			"toughness": "3",
+			"power": "2",
+			"toughness": "2",
 			"colors": [],
 			"color_identity": [],
 			"color_identity_hybrid": [],
@@ -9829,7 +9853,7 @@
 			"type_line": "Creature — Bison",
 			"oracle_text": "Trample",
 			"flavor_text": "\"To this day, the vanishing of the Saturnian Bison remains as one of zoology's greatest mysteries.\"",
-			"power": "3",
+			"power": "5",
 			"toughness": "3",
 			"colors": [
 				"G"
@@ -9929,8 +9953,8 @@
 			"type_line": "Creature — Pest",
 			"oracle_text": "Flying",
 			"flavor_text": "\"How fascinatingly foul.\"",
-			"power": "3",
-			"toughness": "1",
+			"power": "2",
+			"toughness": "2",
 			"colors": [
 				"B"
 			],
@@ -10939,7 +10963,7 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Artifact of Metamorphosis.png",
-			"mana_cost": "{G}{G}{G}",
+			"mana_cost": "{B}{B}{B}",
 			"mana_value": 3,
 			"types": [
 				"Enchantment"
@@ -10951,14 +10975,14 @@
 			"oracle_text": "Enchant creature\nAt the beginning of each end step, enchanted creature becomes a copy of another target creature.",
 			"flavor_text": "Players always spawn as a random survivor.",
 			"colors": [
-				"G"
+				"U"
 			],
 			"color_identity": [
-				"G"
+				"B"
 			],
 			"color_identity_hybrid": [
 				[
-					"G"
+					"B"
 				]
 			],
 			"keywords": [
@@ -11212,8 +11236,8 @@
 			"type_line": "Legendary Artifact Creature — Drone",
 			"oracle_text": "Flying\nWhenever Bombardment Drone becomes blocked, it deals 1 damage to all creatures defending player controls.",
 			"flavor_text": "\"Yep. Could never walk again after what he did with it.\"\n\"Wh... What do you mean?\"\n\"I liked him too.\"\n\"What did he do??\"",
-			"power": "2",
-			"toughness": "2",
+			"power": "4",
+			"toughness": "4",
 			"colors": [],
 			"color_identity": [],
 			"color_identity_hybrid": [],
@@ -12481,7 +12505,7 @@
 				"Artifact"
 			],
 			"type_line": "Artifact",
-			"oracle_text": "{T}: Regenerate all creatures you control. Sacrifice Shrine of Shaping.",
+			"oracle_text": "{T}, Sacrifice Shrine of Shaping: Regenerate all creatures you control.",
 			"flavor_text": "Your soul feels lighter.",
 			"colors": [
 				"W"
@@ -12565,7 +12589,7 @@
 				"Artifact"
 			],
 			"type_line": "Artifact",
-			"oracle_text": "{T}: Create a treasure token. Sacrifice Barrel.",
+			"oracle_text": "{T}, Sacrifice Barrel: Create a treasure token.",
 			"flavor_text": "Gives survivors a splash of gold.",
 			"colors": [],
 			"color_identity": [],
@@ -15758,10 +15782,9 @@
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
-				"Artifact",
-				"Land"
+				"Artifact"
 			],
-			"type_line": "Artifact Land",
+			"type_line": "Artifact",
 			"oracle_text": "{T}: Tap three artifacts you control. If you do, your artifact creatures have protection from creatures until end of turn.",
 			"flavor_text": "You dream of flowing power.",
 			"colors": [],
@@ -17916,7 +17939,7 @@
 				"Equipment"
 			],
 			"type_line": "Legendary Artifact — Equipment",
-			"oracle_text": "Whenever equipped creature deals lethal damage to a legendary creature, you may activate one of that creature's activated abilities without paying its activation cost.\nEquip {3}",
+			"oracle_text": "Whenever equipped creature deals lethal damage to a legendary creature, you may activate one of equipped creature's activated abilities without paying its activation cost.\nEquip {3}",
 			"flavor_text": "\"It seems to be housing a variety of... glowing brain \"˜stalks', similar to tubeworms.\"",
 			"colors": [],
 			"color_identity": [],
@@ -18471,8 +18494,8 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Charged Perforator.png",
-			"mana_cost": "{R}{R}{R}{R}",
-			"mana_value": 4,
+			"mana_cost": "{1}{R}{R}",
+			"mana_value": 3,
 			"types": [
 				"Artifact"
 			],
@@ -18480,7 +18503,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Equipped creature can damage, block, and target creatures and players as though they didn't have protection.\nEquip {R}{R}",
+			"oracle_text": "Equipped creature can damage, block, and target creatures and players as though they didn't have protection.\nEquip {2}",
 			"flavor_text": "> Put some more ice in my drink WOW it's electric\n> Timestamping for dance break",
 			"colors": [
 				"R"
@@ -19173,7 +19196,7 @@
 				"Enchantment"
 			],
 			"type_line": "Enchantment",
-			"oracle_text": "Put a time counter on Scaling Difficulty during your upkeep.\nAll creatures get +2/+0 for every time counter on Scaling Difficulty.",
+			"oracle_text": "Cumulative upkeep—Put a time counter on Scaling Difficulty during your upkeep.\nAll creatures get +2/+0 for every time counter on Scaling Difficulty.",
 			"flavor_text": "I SEE YOU\nI'M COMING FOR YOU\nHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA",
 			"colors": [],
 			"color_identity": [],
