@@ -2454,8 +2454,8 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Lunar Equipment",
-			"oracle_text": "Equipped creature has toughness 1.\nWhen this Equipment becomes attached to a creature, put a number of +0/+1 counters on that creature equal to its toughness minus 1.\nIf an effect would increase equipped creature's toughness, that many +0/+1 counters are put on it instead.\nRemove all +0/+1 counters from creature if Trancendence is unattached.\nEquip {2}",
-			"flavor_text": "\"You are trying your best to survive.\"",
+			"oracle_text": "Equipped creature has toughness 1.\nWhen this Equipment becomes attached to a creature, put a number of armor counters Transcendence equal to its toughness minus 1.\nIf an effect would increase or decrease equipped creature’s toughness, that many armor counters are put on or removed from Transcendence instead.\nEquipped creature gets +0/+1 for each armor counter on Transcendence.\nEquip 2",
+			"flavor_text": "\"You are trying your best to survive.\"",
 			"colors": [],
 			"color_identity": [],
 			"color_identity_hybrid": [],
@@ -14163,7 +14163,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "{T}: Equipped creature deals damage to up to three target creatures. Put a bleed counter on each. (At end of turn, it takes damage equal to its bleed counters, then remove them.)\nEquip {4}",
+			"oracle_text": "{T}: Equipped creature deals 1 damage to up to two target creatures. Put a bleed counter on each. (At end of turn, it takes damage equal to its bleed counters, then remove them.)\nEquip {4}",
 			"flavor_text": "I'm so happy they let me bring my trusty disc toy on this trip! Trees need cutting? Disc toy. Baddies getting a little too close? Disc toy.",
 			"colors": [],
 			"color_identity": [],
@@ -16989,6 +16989,7 @@
 			],
 			"type_line": "Artifact — Equipment",
 			"oracle_text": "Whenever an Equipment attached to equipped creature becomes tapped, you may untap it. This ability triggers only once each turn.\nEquip {2}",
+			"flavor_text": "\"As humanity began to venture out into the depths of space, high-energy but low-volume fuel sources became critical for interplanetary travel\"",
 			"colors": [],
 			"color_identity": [],
 			"color_identity_hybrid": [],
@@ -18526,11 +18527,8 @@
 			"types": [
 				"Artifact"
 			],
-			"subtypes": [
-				"Equipment"
-			],
-			"type_line": "Artifact — Equipment",
-			"oracle_text": "Creatures you control have haste and get +3/+0.\nEquip {2}",
+			"type_line": "Artifact",
+			"oracle_text": "Creatures you control have haste and get +3/+0.",
 			"flavor_text": "> OH ||||\n> OOPS\n> SPEAR DISCHARGED ENERGY AND PUNCHED A HOLE IN THE WALL",
 			"colors": [],
 			"color_identity": [],
