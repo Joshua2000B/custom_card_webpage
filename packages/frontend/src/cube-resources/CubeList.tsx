@@ -47,9 +47,9 @@ export const CubeList = () => {
   const totalCards = cards.length;
   useEffect(() => {
     if (!cubeName) {
-      document.title = `Loading | Hellfall`;
+      document.title = `Loading`;
     } else {
-      document.title = `${cubeName} | Hellfall`;
+      document.title = `${cubeName}`;
     }
   }, [cubeName]);
 

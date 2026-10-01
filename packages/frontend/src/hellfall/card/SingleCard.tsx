@@ -28,9 +28,9 @@ export const SingleCard = () => {
   useUpdateURL(true);
   useEffect(() => {
     if (!entryToRender) {
-      document.title = `Loading | Hellfall`;
+      document.title = `Loading`;
     } else {
-      document.title = `${entryToRender.name} | Hellfall`;
+      document.title = `${entryToRender.name}`;
     }
   }, [entryToRender]);
 

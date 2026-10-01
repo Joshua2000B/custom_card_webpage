@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export const RakdosCrimes = () => {
   return (
     <>
-      <title>Rakdos Crimes | Hellfall</title>
+      <title>Rakdos Crimes</title>
       <BigContainer>
         <h1>Rakdos Crimes</h1>
         <div>

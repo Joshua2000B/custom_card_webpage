@@ -59,7 +59,7 @@ export const Watchwolfresults = () => {
 
   return (
     <PageContainer>
-      <title>WatchWolfWar Results | Hellfall</title>
+      <title>WatchWolfWar Results</title>
       <Tooltip renderToLeft />
       <ActiveCardPanel />
       <StyleComponent>

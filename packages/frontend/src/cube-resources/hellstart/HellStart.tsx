@@ -38,7 +38,7 @@ export const HellStart = () => {
   return (
     <Container>
       <ActiveCardPanel />
-      <title>Hellstart | Hellfall</title>
+      <title>Hellstart</title>
       <code>
         8 person &quot;draft&quot; format. each player receives four packs, and drafts one. they are
         then passed three packs, and may pick one. the remaining two packs are discarded/unused.

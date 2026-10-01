@@ -17,7 +17,7 @@ export const AvatarOfBalls = () => {
 
   return (
     <>
-      <title>Avatar of BallsJr123 | Hellfall</title>
+      <title>Avatar of BallsJr123</title>
       <h2>Avatar of BallsJr123</h2>
       <FormField>
         <FormField.Label>{'Value?'}</FormField.Label>

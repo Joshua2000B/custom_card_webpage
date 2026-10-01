@@ -4,7 +4,7 @@ import { BigContainer } from './components.tsx';
 export const UBEvasion = () => {
   return (
     <>
-      <title>UB Evasion | Hellfall</title>
+      <title>UB Evasion</title>
       <BigContainer>
         <h1>UB Evasion, Low Mana Costs, and Combat Damage Payoffs</h1>
         <div>

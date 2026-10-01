@@ -58,7 +58,7 @@ export const Settings = () => {
   if (!authConfigured) {
     return (
       <PageContainer>
-        <title>Settings | Hellfall</title>
+        <title>Settings</title>
         <p>Login is not configured. Set REACT_APP_AUTH_API_URL to enable Discord login.</p>
         <Link to="/">Back to search</Link>
       </PageContainer>
@@ -67,7 +67,7 @@ export const Settings = () => {
   if (loading) {
     return (
       <PageContainer>
-        <title>Settings Loading | Hellfall</title>
+        <title>Settings Loading</title>
         <p>…</p>
       </PageContainer>
     );
@@ -75,7 +75,7 @@ export const Settings = () => {
   if (!user) {
     return (
       <PageContainer>
-        <title>Settings | Hellfall</title>
+        <title>Settings</title>
         <p>Not logged in.</p>
         <Link to="/">Back to search</Link>
       </PageContainer>
@@ -83,7 +83,7 @@ export const Settings = () => {
   }
   return (
     <PageContainer>
-      <title>Settings | Hellfall</title>
+      <title>Settings</title>
       <h2>Display Options</h2>
       <div>
         Choose default options for your Hellfall searches. While signed in, if you do not

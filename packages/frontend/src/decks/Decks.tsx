@@ -14,7 +14,7 @@ export const Decks = () => {
         path="/"
         element={
           <div>
-            <title>Decks | Hellfall</title>
+            <title>Decks</title>
             Look at all these decks
             <ul>
               {allDecks.map(entry => {

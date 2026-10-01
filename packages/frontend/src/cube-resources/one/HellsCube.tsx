@@ -17,7 +17,7 @@ export const HellsCubeOne = () => {
   }
   const SpecialCardPage = ({ name, component }: SpecialCardPageProps) => {
     useEffect(() => {
-      document.title = `${name} | Hellfall`;
+      document.title = `${name}`;
     }, [name]);
 
     return (
@@ -34,7 +34,7 @@ export const HellsCubeOne = () => {
           path="/"
           element={
             <>
-              <title>HLC Special Cards | Hellfall</title>
+              <title>HLC Special Cards</title>
               Devotion to Dreadmaw:
               <ul>
                 <li>6 CMC</li>

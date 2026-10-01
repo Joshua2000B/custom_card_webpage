@@ -24,7 +24,7 @@ const mapListToCodeOr = (textList: string[]) =>
 export const Syntax = () => {
   return (
     <>
-      <title>Search Reference | Hellfall</title>
+      <title>Search Reference</title>
       <BigContainer>
         <h1>Search Syntax</h1>
         <div>

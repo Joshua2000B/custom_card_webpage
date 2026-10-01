@@ -101,9 +101,9 @@ export const Deck = () => {
   }, {});
   useEffect(() => {
     if (!deck.title) {
-      document.title = `Loading | Hellfall`;
+      document.title = `Loading`;
     } else {
-      document.title = `${deck.title} | Hellfall`;
+      document.title = `${deck.title}`;
     }
   }, [deck]);
 

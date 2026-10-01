@@ -44,7 +44,7 @@ export const WatchwolfWar = () => {
 
   return (
     <PageContainer>
-      <title>WatchWolfWar | Hellfall</title>
+      <title>WatchWolfWar</title>
       <Tooltip renderToLeft={origin == 'right'} />
       <ActiveCardPanel origin={origin} />
       <StyleComponent>
