@@ -121,7 +121,7 @@
 			"accepted_order": "2",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Engineer, Fortification Expert.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Engineer Fortification Expert.png",
 			"mana_cost": "{1}{W}{U}",
 			"mana_value": 3,
 			"supertypes": [
@@ -190,7 +190,7 @@
 					"name": "Engineer, Fortification Expert",
 					"set": "ROR",
 					"collector_number": "2",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Engineer, Fortification Expert.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Engineer Fortification Expert.png",
 					"type_line": "Legendary Creature — Human Artificer Survivor",
 					"component": "self"
 				}
@@ -208,7 +208,7 @@
 			"accepted_order": "3",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Control Unit, Corrupted AI.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Control Unit Corrupted AI.png",
 			"mana_cost": "{4}",
 			"mana_value": 4,
 			"supertypes": [
@@ -266,7 +266,7 @@
 					"name": "Solus Control Unit, Corrupted AI",
 					"set": "ROR",
 					"collector_number": "3",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Control Unit, Corrupted AI.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Control Unit Corrupted AI.png",
 					"type_line": "Legendary Artifact Creature — Solus",
 					"component": "self"
 				}
@@ -413,7 +413,7 @@
 			"accepted_order": "7",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Acrid, Test Subject.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Acrid Test Subject.png",
 			"mana_cost": "{1}{B}{B}",
 			"mana_value": 3,
 			"supertypes": [
@@ -562,7 +562,7 @@
 			"accepted_order": "10",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Commando, Cornered Gunslinger.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Commando Cornered Gunslinger.png",
 			"mana_cost": "{1}{R}{W}",
 			"mana_value": 3,
 			"supertypes": [
@@ -623,7 +623,7 @@
 			"accepted_order": "11",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Huntress, Judge, Jury, Executioner.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Huntress Judge Jury Executioner.png",
 			"mana_cost": "{1}{B}{R}",
 			"mana_value": 3,
 			"supertypes": [
@@ -684,7 +684,7 @@
 			"accepted_order": "12",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bandit, Desperate Outlaw.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bandit Desperate Outlaw.png",
 			"mana_cost": "{1}{B}{R}",
 			"mana_value": 3,
 			"supertypes": [
@@ -745,7 +745,7 @@
 			"accepted_order": "13",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/MUL-T, Right Tool for the Wrong Job.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/MUL-T Right Tool for the Wrong Job.png",
 			"mana_cost": "{3}",
 			"mana_value": 3,
 			"supertypes": [
@@ -796,7 +796,7 @@
 			"accepted_order": "14",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Artificer, Herald of the House Beyond.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Artificer Herald of the House Beyond.png",
 			"mana_cost": "{1}{U}{R}",
 			"mana_value": 3,
 			"supertypes": [
@@ -857,7 +857,7 @@
 			"accepted_order": "15",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Mercenary, Hired Blade.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Mercenary Hired Blade.png",
 			"mana_cost": "{1}{R}{W}",
 			"mana_value": 3,
 			"supertypes": [
@@ -918,7 +918,7 @@
 			"accepted_order": "16",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/REX, Symbiotes.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/REX Symbiotes.png",
 			"mana_cost": "{1}{G}{G}",
 			"mana_value": 3,
 			"supertypes": [
@@ -976,7 +976,7 @@
 			"accepted_order": "17",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Loader, Bionic Powerhouse.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Loader Bionic Powerhouse.png",
 			"mana_cost": "{1}{R}{R}",
 			"mana_value": 3,
 			"supertypes": [
@@ -1033,7 +1033,7 @@
 			"accepted_order": "18",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Captain, Tired Veteran.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Captain Tired Veteran.png",
 			"mana_cost": "{1}{R}{W}{W}",
 			"mana_value": 4,
 			"supertypes": [
@@ -1094,7 +1094,7 @@
 			"accepted_order": "19",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Railgunner, Forgotten Nomad.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Railgunner Forgotten Nomad.png",
 			"mana_cost": "{1}{B}{R}",
 			"mana_value": 3,
 			"supertypes": [
@@ -1155,7 +1155,7 @@
 			"accepted_order": "20",
 			"layout": "multi",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Void Fiend, Corrupted Amnesiac.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Void Fiend Corrupted Amnesiac.png",
 			"mana_cost": "{B}{B}{R}",
 			"mana_value": 3,
 			"type_line": "Legendary Creature — Human Eldrazi Survivor // Legendary Creature — Human Eldrazi Survivor",
@@ -1392,7 +1392,7 @@
 			"accepted_order": "24",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Seeker, Diviner of the House Beyond.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Seeker Diviner of the House Beyond.png",
 			"mana_cost": "{G}{W}{W}",
 			"mana_value": 3,
 			"supertypes": [
@@ -1453,7 +1453,7 @@
 			"accepted_order": "25",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/CHEF, Culinarian Adept.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/CHEF Culinarian Adept.png",
 			"mana_cost": "{2}{G}",
 			"mana_value": 3,
 			"supertypes": [
@@ -1518,7 +1518,7 @@
 					"name": "CHEF, Culinarian Adept",
 					"set": "ROR",
 					"collector_number": "25",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/CHEF, Culinarian Adept.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/CHEF Culinarian Adept.png",
 					"type_line": "Legendary Artifact Creature — Robot Survivor",
 					"component": "self"
 				}
@@ -1536,7 +1536,7 @@
 			"accepted_order": "26",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Operator, Coerced Specialist.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Operator Coerced Specialist.png",
 			"mana_cost": "{3}",
 			"mana_value": 3,
 			"supertypes": [
@@ -1587,7 +1587,7 @@
 			"accepted_order": "27",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Drifter, Unchecked Hoarder.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Drifter Unchecked Hoarder.png",
 			"mana_cost": "{1}{U}{U}",
 			"mana_value": 3,
 			"supertypes": [
@@ -1652,7 +1652,7 @@
 					"name": "Drifter, Unchecked Hoarder",
 					"set": "ROR",
 					"collector_number": "27",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Drifter, Unchecked Hoarder.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Drifter Unchecked Hoarder.png",
 					"type_line": "Legendary Creature — Human Carrier Survivor",
 					"component": "self"
 				}
@@ -1916,7 +1916,7 @@
 			"accepted_order": "33",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Heretic, Unorthodoxy Risen.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Heretic Unorthodoxy Risen.png",
 			"mana_cost": "{1}{B}{B}{B}",
 			"mana_value": 4,
 			"supertypes": [
@@ -2548,7 +2548,7 @@
 			"accepted_order": "45",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Beetle Queen, Swarm Mother.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Beetle Queen Swarm Mother.png",
 			"mana_cost": "{2}{G}{G}",
 			"mana_value": 4,
 			"supertypes": [
@@ -2635,7 +2635,7 @@
 					"name": "Beetle Queen, Swarm Mother",
 					"set": "ROR",
 					"collector_number": "45",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Beetle Queen, Swarm Mother.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Beetle Queen Swarm Mother.png",
 					"type_line": "Legendary Creature — Insect",
 					"component": "self"
 				}
@@ -3575,7 +3575,7 @@
 			"accepted_order": "66",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Amalgamator, Incomplete Prototype.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Amalgamator Incomplete Prototype.png",
 			"mana_cost": "{5}",
 			"mana_value": 5,
 			"supertypes": [
@@ -3633,7 +3633,7 @@
 					"name": "Solus Amalgamator, Incomplete Prototype",
 					"set": "ROR",
 					"collector_number": "66",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Amalgamator, Incomplete Prototype.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Amalgamator Incomplete Prototype.png",
 					"type_line": "Legendary Artifact Creature — Solus",
 					"component": "self"
 				}
@@ -3844,7 +3844,7 @@
 			"accepted_order": "70",
 			"layout": "multi",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Providence, The Hero.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Providence The Hero.png",
 			"mana_cost": "{4}{G}{W}{W}{W}",
 			"mana_value": 8,
 			"type_line": "Legendary Enchantment // Legendary Creature — God",
@@ -3960,7 +3960,7 @@
 					"name": "Providence, The Hero // Providence, Bulwark of the Weak",
 					"set": "ROR",
 					"collector_number": "70",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Providence, The Hero.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Providence The Hero.png",
 					"type_line": "Legendary Enchantment // Legendary Creature — God",
 					"component": "self"
 				}
@@ -3978,7 +3978,7 @@
 			"accepted_order": "71",
 			"layout": "multi",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Mithrix, Dark Influence.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Mithrix Dark Influence.png",
 			"mana_cost": "{3}{R}{R}{R}",
 			"mana_value": 6,
 			"type_line": "Legendary Enchantment // Legendary Creature — God",
@@ -4101,7 +4101,7 @@
 					"name": "Mithrix, Dark Influence // Mithrix, King of Nothing",
 					"set": "ROR",
 					"collector_number": "71",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Mithrix, Dark Influence.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Mithrix Dark Influence.png",
 					"type_line": "Legendary Enchantment // Legendary Creature — God",
 					"component": "self"
 				}
@@ -4394,7 +4394,7 @@
 			"accepted_order": "78",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Magma Worm, Ancient Lava Swimmer.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Magma Worm Ancient Lava Swimmer.png",
 			"mana_cost": "{2}{R}{R}",
 			"mana_value": 4,
 			"supertypes": [
@@ -4449,7 +4449,7 @@
 			"accepted_order": "79",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Overloading Worm, The Reminder.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Overloading Worm The Reminder.png",
 			"mana_cost": "{2}{R}{R}{R}",
 			"mana_value": 5,
 			"supertypes": [
@@ -4676,7 +4676,7 @@
 			"accepted_order": "83",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Scorched Acres, Wisp Installation.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Scorched Acres Wisp Installation.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -4714,7 +4714,7 @@
 			"accepted_order": "84",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Repurposed Crater, Constructed Polestar.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Repurposed Crater Constructed Polestar.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -4940,7 +4940,7 @@
 			"accepted_order": "88",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Abandoned Aqueduct, Origin of Tar.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Abandoned Aqueduct Origin of Tar.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -4981,7 +4981,7 @@
 			"accepted_order": "89",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Aphelian Sanctuary, Cleansing Center.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Aphelian Sanctuary Cleansing Center.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -5366,7 +5366,7 @@
 			"accepted_order": "97",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bulwark's Ambry, Tar Research.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bulwark's Ambry Tar Research.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -5411,7 +5411,7 @@
 			"accepted_order": "98",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bulwark's Ambry, Aphelian Research.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bulwark's Ambry Aphelian Research.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -5515,7 +5515,7 @@
 			"accepted_order": "100",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Artifact Reliquary, Stabilized.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Artifact Reliquary Stabilized.png",
 			"mana_cost": "{6}",
 			"mana_value": 6,
 			"supertypes": [
@@ -5566,7 +5566,7 @@
 					"name": "Artifact Reliquary, Stabilized",
 					"set": "ROR",
 					"collector_number": "100",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Artifact Reliquary, Stabilized.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Artifact Reliquary Stabilized.png",
 					"type_line": "Legendary Artifact",
 					"component": "self"
 				}
@@ -5927,7 +5927,7 @@
 			"accepted_order": "108",
 			"layout": "multi",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/A Moment, Fractured.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/A Moment Fractured.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"type_line": "Legendary Land // Legendary Land",
@@ -6005,7 +6005,7 @@
 			"accepted_order": "109",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Wandering Vagrant, Gentle Protector.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Wandering Vagrant Gentle Protector.png",
 			"mana_cost": "{3}{U}{R}",
 			"mana_value": 5,
 			"supertypes": [
@@ -6907,7 +6907,7 @@
 			"accepted_order": "128",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/False Son, Eye of the Storm.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/False Son Eye of the Storm.png",
 			"mana_cost": "{8}",
 			"mana_value": 8,
 			"supertypes": [
@@ -6957,7 +6957,7 @@
 			"accepted_order": "129",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/False Son, The Shattered Heir.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/False Son The Shattered Heir.png",
 			"mana_cost": "{3}",
 			"mana_value": 3,
 			"supertypes": [
@@ -7755,7 +7755,7 @@
 			"accepted_order": "146",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Scavenger, Item Hoarder.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Scavenger Item Hoarder.png",
 			"mana_cost": "{R}{R}{W}",
 			"mana_value": 3,
 			"supertypes": [
@@ -8072,7 +8072,7 @@
 			"accepted_order": "152",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Stone Titan, Crisis Vanguard.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Stone Titan Crisis Vanguard.png",
 			"mana_cost": "{6}",
 			"mana_value": 6,
 			"supertypes": [
@@ -8833,7 +8833,7 @@
 			"accepted_order": "169",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/ROBOMANDO, Resource Extractor.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/ROBOMANDO Resource Extractor.png",
 			"mana_cost": "{4}",
 			"mana_value": 4,
 			"supertypes": [
@@ -8884,7 +8884,7 @@
 			"accepted_order": "170",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Wing, The Alloyed Collective.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Wing The Alloyed Collective.png",
 			"mana_cost": "{6}",
 			"mana_value": 6,
 			"supertypes": [
@@ -8953,7 +8953,7 @@
 					"name": "Solus Wing, The Alloyed Collective",
 					"set": "ROR",
 					"collector_number": "170",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Wing, The Alloyed Collective.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Wing The Alloyed Collective.png",
 					"type_line": "Legendary Artifact Creature — Solus",
 					"component": "self"
 				}
@@ -8971,7 +8971,7 @@
 			"accepted_order": "171",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Grandparent, Aberrant Caretaker.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Grandparent Aberrant Caretaker.png",
 			"mana_cost": "{2}{R}{R}{W}",
 			"mana_value": 5,
 			"supertypes": [
@@ -9030,7 +9030,7 @@
 			"accepted_order": "172",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Heart, Virtual Super Ego.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Heart Virtual Super Ego.png",
 			"mana_cost": "{5}",
 			"mana_value": 5,
 			"supertypes": [
@@ -9985,7 +9985,7 @@
 			"accepted_order": "193",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Xi Construct, Defense System.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Xi Construct Defense System.png",
 			"mana_cost": "{5}",
 			"mana_value": 5,
 			"supertypes": [
@@ -10043,7 +10043,7 @@
 					"name": "Xi Construct, Defense System",
 					"set": "ROR",
 					"collector_number": "193",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Xi Construct, Defense System.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Xi Construct Defense System.png",
 					"type_line": "Legendary Artifact Creature — Construct",
 					"component": "self"
 				}
@@ -10105,7 +10105,7 @@
 			"accepted_order": "195",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Alloy Hunter, Seer's Chosen.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Alloy Hunter Seer's Chosen.png",
 			"mana_cost": "{6}",
 			"mana_value": 6,
 			"supertypes": [
@@ -14598,7 +14598,7 @@
 			"accepted_order": "291",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Void Devastator, Destroyer of Worlds.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Void Devastator Destroyer of Worlds.png",
 			"mana_cost": "{3}{U}{B}",
 			"mana_value": 5,
 			"supertypes": [
@@ -14814,7 +14814,7 @@
 			"accepted_order": "295",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Distant Roost, Ground Zero.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Distant Roost Ground Zero.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -14861,7 +14861,7 @@
 			"accepted_order": "296",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Titanic Plains, Ground Zero.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Titanic Plains Ground Zero.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -14908,7 +14908,7 @@
 			"accepted_order": "297",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Siphoned Forest, Ground Zero.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Siphoned Forest Ground Zero.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -14955,7 +14955,7 @@
 			"accepted_order": "298",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Verdant Falls, Ground Zero.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Verdant Falls Ground Zero.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -15002,7 +15002,7 @@
 			"accepted_order": "299",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Shattered Abodes, Ground Zero.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Shattered Abodes Ground Zero.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -15049,7 +15049,7 @@
 			"accepted_order": "300",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Wetland Aspect, Rehabilitation Zone.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Wetland Aspect Rehabilitation Zone.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -15087,7 +15087,7 @@
 			"accepted_order": "301",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Pretender's Precipice, Den of Debris.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Pretender's Precipice Den of Debris.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -15131,7 +15131,7 @@
 			"accepted_order": "302",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Rallypoint Delta, 'Contact Light' Survivor Camp.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Rallypoint Delta 'Contact Light' Survivor Camp.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -15175,7 +15175,7 @@
 			"accepted_order": "303",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Treeborn Colony, Path of the Protector.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Treeborn Colony Path of the Protector.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -15213,7 +15213,7 @@
 			"accepted_order": "304",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Reformed Altar, Shadow of the Savior.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Reformed Altar Shadow of the Savior.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -15254,7 +15254,7 @@
 			"accepted_order": "305",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Sulfur Pools, Pungent Spring.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Sulfur Pools Pungent Spring.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -15301,7 +15301,7 @@
 			"accepted_order": "306",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Iron Alluvium, Abandoned Operation.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Iron Alluvium Abandoned Operation.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -15348,7 +15348,7 @@
 			"accepted_order": "307",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Abyssal Depths, Tectonic Relics.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Abyssal Depths Tectonic Relics.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -15396,7 +15396,7 @@
 			"accepted_order": "308",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Siren's Call, Ship Graveyard.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Siren's Call Ship Graveyard.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -15440,7 +15440,7 @@
 			"accepted_order": "309",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Sundered Grove, Dormant Locus.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Sundered Grove Dormant Locus.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -15492,7 +15492,7 @@
 			"accepted_order": "310",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Conduit Canyon, Logistics Vein.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Conduit Canyon Logistics Vein.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -15531,7 +15531,7 @@
 			"accepted_order": "311",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Sky Meadow, Sprite Fields.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Sky Meadow Sprite Fields.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -15635,7 +15635,7 @@
 			"accepted_order": "313",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Commencement, Moon of Petrichor V.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Commencement Moon of Petrichor V.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -15843,7 +15843,7 @@
 			"accepted_order": "318",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Prime Meridian, Relic of the False Son.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Prime Meridian Relic of the False Son.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -15981,7 +15981,7 @@
 			"accepted_order": "321",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bulwark's Ambry, Wisp Research.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Bulwark's Ambry Wisp Research.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -16026,7 +16026,7 @@
 			"accepted_order": "322",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Void Fields, Comsic Prison.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Void Fields Comsic Prison.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -16070,7 +16070,7 @@
 			"accepted_order": "323",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Void Locus, Cell IIIVIIIIIILVIIIVLVILIVLLLVVVILIVLI.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Void Locus Cell IIIVIIIIIILVIIIVLVILIVLLLVVVILIVLI.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -16114,7 +16114,7 @@
 			"accepted_order": "324",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/The Planetarium, Cell V.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/The Planetarium Cell V.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -16158,7 +16158,7 @@
 			"accepted_order": "325",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Voidling, Diviner of the Deep.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Voidling Diviner of the Deep.png",
 			"mana_cost": "{4}{U}{B}{B}",
 			"mana_value": 7,
 			"supertypes": [
@@ -16272,7 +16272,7 @@
 			"accepted_order": "327",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Computational Exchange, Virtual Cache.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Computational Exchange Virtual Cache.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -16317,7 +16317,7 @@
 			"accepted_order": "328",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solutional Haunt, Terminal Installation.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solutional Haunt Terminal Installation.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"supertypes": [
@@ -19392,7 +19392,7 @@
 					"name": "Solus Amalgamator, Incomplete Prototype",
 					"set": "ROR",
 					"collector_number": "66",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Amalgamator, Incomplete Prototype.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Amalgamator Incomplete Prototype.png",
 					"type_line": "Legendary Artifact Creature — Solus",
 					"component": "token_maker"
 				},
@@ -19404,7 +19404,7 @@
 					"name": "Solus Control Unit, Corrupted AI",
 					"set": "ROR",
 					"collector_number": "3",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Control Unit, Corrupted AI.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Control Unit Corrupted AI.png",
 					"type_line": "Legendary Artifact Creature — Solus",
 					"component": "token_maker"
 				},
@@ -19476,7 +19476,7 @@
 					"name": "Engineer, Fortification Expert",
 					"set": "ROR",
 					"collector_number": "2",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Engineer, Fortification Expert.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Engineer Fortification Expert.png",
 					"type_line": "Legendary Creature — Human Artificer Survivor",
 					"component": "token_maker"
 				},
@@ -19548,7 +19548,7 @@
 					"name": "Drifter, Unchecked Hoarder",
 					"set": "ROR",
 					"collector_number": "27",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Drifter, Unchecked Hoarder.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Drifter Unchecked Hoarder.png",
 					"type_line": "Legendary Creature — Human Carrier Survivor",
 					"component": "token_maker"
 				},
@@ -19656,7 +19656,7 @@
 					"name": "Xi Construct, Defense System",
 					"set": "ROR",
 					"collector_number": "193",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Xi Construct, Defense System.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Xi Construct Defense System.png",
 					"type_line": "Legendary Artifact Creature — Construct",
 					"component": "token_maker"
 				},
@@ -19739,7 +19739,7 @@
 					"name": "Beetle Queen, Swarm Mother",
 					"set": "ROR",
 					"collector_number": "45",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Beetle Queen, Swarm Mother.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Beetle Queen Swarm Mother.png",
 					"type_line": "Legendary Creature — Insect",
 					"component": "token_maker"
 				},
@@ -19810,7 +19810,7 @@
 					"name": "Beetle Queen, Swarm Mother",
 					"set": "ROR",
 					"collector_number": "45",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Beetle Queen, Swarm Mother.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Beetle Queen Swarm Mother.png",
 					"type_line": "Legendary Creature — Insect",
 					"component": "token_maker"
 				},
@@ -19883,7 +19883,7 @@
 					"name": "Mithrix, Dark Influence // Mithrix, King of Nothing",
 					"set": "ROR",
 					"collector_number": "71",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Mithrix, Dark Influence.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Mithrix Dark Influence.png",
 					"type_line": "Legendary Enchantment // Legendary Creature — God",
 					"component": "token_maker"
 				},
@@ -19956,7 +19956,7 @@
 					"name": "Mithrix, Dark Influence // Mithrix, King of Nothing",
 					"set": "ROR",
 					"collector_number": "71",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Mithrix, Dark Influence.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Mithrix Dark Influence.png",
 					"type_line": "Legendary Enchantment // Legendary Creature — God",
 					"component": "token_maker"
 				},
@@ -20028,7 +20028,7 @@
 					"name": "Mithrix, Dark Influence // Mithrix, King of Nothing",
 					"set": "ROR",
 					"collector_number": "71",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Mithrix, Dark Influence.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Mithrix Dark Influence.png",
 					"type_line": "Legendary Enchantment // Legendary Creature — God",
 					"component": "token_maker"
 				},
@@ -20103,7 +20103,7 @@
 					"name": "Providence, The Hero // Providence, Bulwark of the Weak",
 					"set": "ROR",
 					"collector_number": "70",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Providence, The Hero.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Providence The Hero.png",
 					"type_line": "Legendary Enchantment // Legendary Creature — God",
 					"component": "token_maker"
 				},
@@ -20178,7 +20178,7 @@
 					"name": "Providence, The Hero // Providence, Bulwark of the Weak",
 					"set": "ROR",
 					"collector_number": "70",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Providence, The Hero.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Providence The Hero.png",
 					"type_line": "Legendary Enchantment // Legendary Creature — God",
 					"component": "token_maker"
 				},
@@ -20245,7 +20245,7 @@
 					"name": "Artifact Reliquary, Stabilized",
 					"set": "ROR",
 					"collector_number": "100",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Artifact Reliquary, Stabilized.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Artifact Reliquary Stabilized.png",
 					"type_line": "Legendary Artifact",
 					"component": "token_maker"
 				},
@@ -20399,7 +20399,7 @@
 					"name": "CHEF, Culinarian Adept",
 					"set": "ROR",
 					"collector_number": "25",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/CHEF, Culinarian Adept.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/CHEF Culinarian Adept.png",
 					"type_line": "Legendary Artifact Creature — Robot Survivor",
 					"component": "token_maker"
 				},
@@ -20636,7 +20636,7 @@
 					"name": "Beetle Queen, Swarm Mother",
 					"set": "ROR",
 					"collector_number": "45",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Beetle Queen, Swarm Mother.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Beetle Queen Swarm Mother.png",
 					"type_line": "Legendary Creature — Insect",
 					"component": "token_maker"
 				},
@@ -21037,7 +21037,7 @@
 					"name": "Solus Wing, The Alloyed Collective",
 					"set": "ROR",
 					"collector_number": "170",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Wing, The Alloyed Collective.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Wing The Alloyed Collective.png",
 					"type_line": "Legendary Artifact Creature — Solus",
 					"component": "token_maker"
 				},
@@ -21104,7 +21104,7 @@
 					"name": "Solus Wing, The Alloyed Collective",
 					"set": "ROR",
 					"collector_number": "170",
-					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Wing, The Alloyed Collective.png",
+					"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Solus Wing The Alloyed Collective.png",
 					"type_line": "Legendary Artifact Creature — Solus",
 					"component": "token_maker"
 				},
