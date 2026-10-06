@@ -345,7 +345,7 @@
 				"Artifact"
 			],
 			"type_line": "Artifact",
-			"oracle_text": "As 3D Printer enters battlefield choose an Equipment on the battlefield.\n{T}, Sacrifice target Equipment: Create a token that's a copy of the chosen equipment.",
+			"oracle_text": "As 3D Printer enters, choose an Equipment on the battlefield.\n{T}, Sacrifice target Equipment: Create a token that's a copy of the chosen equipment.",
 			"colors": [],
 			"color_identity": [],
 			"color_identity_hybrid": [],
@@ -712,7 +712,7 @@
 				"Survivor"
 			],
 			"type_line": "Legendary Creature — Human Rogue Survivor",
-			"oracle_text": "First strike, haste\n{T}: Bandit fights target creature you don't control. Whenever Bandit deals combat damage to that creature, if that damage is lethal to that creature, put a +1/+1 counter on Bandit.",
+			"oracle_text": "First strike, haste\n{T}: Bandit fights target creature you don't control. Whenever Bandit deals damage to that creature, if that damage is lethal to that creature, put a +1/+1 counter on Bandit.",
 			"flavor_text": "...and so he left, grateful for his luck.",
 			"power": "2",
 			"toughness": "2",
@@ -891,7 +891,7 @@
 				"Survivor"
 			],
 			"type_line": "Legendary Creature — Human Mercenary Survivor",
-			"oracle_text": "Vigilance\n{2}, {T}: Phase out Mercenary. Deal 2 damage to blocking creature.",
+			"oracle_text": "Vigilance\n{2}, {T}: Mercenary deals 2 damage to blocking creature it. Then Mercenary phases out.",
 			"flavor_text": "...and so he left, never to become human again.",
 			"power": "3",
 			"toughness": "3",
@@ -956,7 +956,7 @@
 				"Survivor"
 			],
 			"type_line": "Legendary Artifact Creature — Robot Plant Survivor",
-			"oracle_text": "{T}: Choose a number. Put that many life counters on REX, then you gain that much life.\nREX gets +1/-1 for each life counter on it.",
+			"oracle_text": "{T}: Choose a number less than or equal to REX’s toughness. Put that many life counters on REX, then you gain that much life.\nREX gets +1/-1 for each life counter on it.",
 			"flavor_text": "...and so it left, ready to grow into something more.",
 			"power": "3",
 			"toughness": "3",
@@ -1074,7 +1074,7 @@
 				"Survivor"
 			],
 			"type_line": "Legendary Creature — Human Elder Survivor",
-			"oracle_text": "When Captain enters, you may search your library for a card named Defensive Microbots. Then shuffle your library. Put it onto the battlefield attached to Captain.\n{1}: The next 2 damage that would be dealt to target creature you control this turn is dealt to this creature instead.",
+			"oracle_text": "When Captain enters, you may search your library for a card named Defensive Microbots. Put it onto the battlefield attached to Captain. Then shuffle your library.\n{1}: The next 2 damage that would be dealt to target creature you control this turn is dealt to this creature instead.",
 			"flavor_text": "...and so he left, with a new tale to tell.",
 			"power": "2",
 			"toughness": "2",
@@ -1240,7 +1240,7 @@
 						"Survivor"
 					],
 					"type_line": "Legendary Creature — Human Eldrazi Survivor",
-					"oracle_text": "For every instance of damage Void Fiend receives, add a Corruption counter to it.\nWhen Void Fiend has five or more Corruption counters on it, transform Void Fiend.\nRemove a Corruption counter: Void Fiend gains +0/+1 until end of turn.",
+					"oracle_text": "Whenever Void Fiend is dealt damage, put a Corruption counter on it.\nWhen Void Fiend has five or more Corruption counters on it, transform Void Fiend.\nRemove a Corruption counter: Void Fiend gets +0/+1 until end of turn.",
 					"flavor_text": "...and so it comes... for all of us.",
 					"power": "2",
 					"toughness": "3",
@@ -1272,7 +1272,7 @@
 						"Survivor"
 					],
 					"type_line": "Legendary Creature — Human Eldrazi Survivor",
-					"oracle_text": "Remove a Corruption counter from V??oid Fiend when V??oid Fiend participates in a combat phase.\nWhen V??oid Fiend has zero Corruption counters on it, transform V??oid Fiend.",
+					"oracle_text": "Remove a Corruption counter from V??oid Fiend whenever V??oid Fiend attacks or blocks.\nWhen V??oid Fiend has zero Corruption counters on it, transform V??oid Fiend.",
 					"flavor_text": "『 C O N S U M E 】",
 					"power": "6",
 					"toughness": "3",
@@ -1397,7 +1397,7 @@
 				"Enchantment"
 			],
 			"type_line": "Enchantment",
-			"oracle_text": "When Artifact of Kin enters the battlefield, choose a creature type.\nEach creature you control is that creature type. The same is true for creature spells you control and creatures cards you own that aren't on the battlefield.",
+			"oracle_text": "When Artifact of Kin enters the battlefield, choose a creature type.\nEach creature you control is that creature type. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.",
 			"flavor_text": "Monsters will be of only one type per stage.",
 			"colors": [
 				"U"
@@ -1451,7 +1451,7 @@
 				"Survivor"
 			],
 			"type_line": "Legendary Creature — Human Monk Survivor",
-			"oracle_text": "{G}{W}, {T}: Put a Tranquility counter on Seeker.\nRemove three Tranquility counters from Seeker and tap it: Return target creature from your graveyard to the battlefield.",
+			"oracle_text": "{G}{W}, {T}: Put a Tranquility counter on Seeker.\nRemove three Tranquility counters from Seeker, {T}: Return target creature from your graveyard to the battlefield.",
 			"flavor_text": "...and so she left, burdened with knowledge.",
 			"power": "2",
 			"toughness": "2",
@@ -1651,7 +1651,7 @@
 				"Survivor"
 			],
 			"type_line": "Legendary Creature — Human Carrier Survivor",
-			"oracle_text": "Drifter gets +1/+1 for every Scrap equipped to Drifter.\n{T}: Create an Item Scrap token. Choose an Equipment. During your next upkeep phase, destroy that Equipment.",
+			"oracle_text": "Drifter gets +1/+1 for every Scrap equipped to Drifter.\n{T}: Create an Item Scrap token. Choose an Equipment. During your next upkeep, destroy that Equipment.",
 			"flavor_text": "...and so she left, with everything she loved.",
 			"power": "1",
 			"toughness": "3",
@@ -1774,7 +1774,7 @@
 				"Enchantment"
 			],
 			"type_line": "Enchantment",
-			"oracle_text": "Whenever a nontoken creature dies, their owner creates a 1/1 black Wisp creature token.",
+			"oracle_text": "Whenever a nontoken creature dies, its owner creates a 1/1 black Wisp creature token.",
 			"flavor_text": "Wisps emerge from defeated monsters.",
 			"colors": [
 				"B"
@@ -1938,7 +1938,7 @@
 				"Enchantment"
 			],
 			"type_line": "Enchantment",
-			"oracle_text": "Whenever a creature dies, its owner targets a creature. That creature is dealt two damage.",
+			"oracle_text": "Whenever a creature dies, its owner chooses a target a creature. Artifact of Spite deals 2 damage to it.",
 			"flavor_text": "Enemies drop multiple exploding bombs on death.",
 			"colors": [
 				"B"
@@ -2457,7 +2457,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Lunar Equipment",
-			"oracle_text": "Equipped creature has toughness 1.\nWhen this Equipment becomes attached to a creature, put a number of armor counters Transcendence equal to its toughness minus 1.\nIf an effect would increase or decrease equipped creature’s toughness, that many armor counters are put on or removed from Transcendence instead.\nEquipped creature gets +0/+1 for each armor counter on Transcendence.\nEquip 2",
+			"oracle_text": "Equipped creature has toughness 1.\nWhen this Equipment becomes attached to a creature, put a number of armor counters on Transcendence equal to its toughness minus 1.\nIf an effect would increase or decrease equipped creature’s toughness, that many armor counters are put on or removed from Transcendence instead.\nEquipped creature gets +0/+1 for each armor counter on Transcendence.\nEquip {2}",
 			"flavor_text": "\"You are trying your best to survive.\"",
 			"colors": [],
 			"color_identity": [],
@@ -2869,12 +2869,14 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "{T}, Unattach this equipment: Add {C}{C}.\nEquip 1, {T}",
+			"oracle_text": "{T}, Unattach this equipment: Add {C}{C}.\nEquip {1}, {T}",
 			"flavor_text": "The Cadets exchange a nervous glance over the chute. Probably nothing.",
 			"colors": [],
 			"color_identity": [],
 			"color_identity_hybrid": [],
-			"keywords": [],
+			"keywords": [
+				"equip"
+			],
 			"legalities": {
 				"standard": "legal",
 				"4cb": "legal",
@@ -3881,7 +3883,7 @@
 				"Spacecraft"
 			],
 			"type_line": "Legendary Artifact — Spacecraft",
-			"oracle_text": "When the UES Safe Travels enters, search your library for a legendary survivor creature, reveal it, put it into your hand, then shuffle.\nStation\n3+ | {3}, {T}: Deal 2 damage to target creature controlled by an opponent.\n10+ | Flying\n5, T: Destroy target creature you control. If you do, destroy target creature.",
+			"oracle_text": "When the UES Safe Travels enters, search your library for a legendary survivor creature, reveal it, put it into your hand, then shuffle.\nStation\n3+ | {3}, {T}: Deal 2 damage to target creature controlled by an opponent.\n10+ | Flying\n5, {T}: Destroy target creature you control. If you do, destroy target creature.",
 			"power": "5",
 			"toughness": "5",
 			"colors": [
@@ -4753,7 +4755,7 @@
 				"Land"
 			],
 			"type_line": "Legendary Land",
-			"oracle_text": "Whenever you draw a card, reveal that card.\n{T}: Add {CCC}. Spend this mana only to cast a creature spell from your hand that you drew this turn. If you do, at the beginning of your end step, put that card on top of your library from wherever it is.",
+			"oracle_text": "Whenever you draw a card, reveal that card.\n{T}: Add {C}{C}{C}. Spend this mana only to cast a creature spell from your hand that you drew this turn. If you do, at the beginning of your end step, put that card on top of your library from wherever it is.",
 			"flavor_text": "\"But then I woke up again. In the simulacrum. It never happened. I was always in the simulacrum.\nAm I still here?\"",
 			"colors": [],
 			"color_identity": [],
@@ -5564,7 +5566,7 @@
 				"Land"
 			],
 			"type_line": "Legendary Artifact Land",
-			"oracle_text": "{T}, Remove a +1/+1 counters from target creature you control: Add {C}{C}.",
+			"oracle_text": "{T}, Remove a +1/+1 counter from target creature you control: Add {C}{C}.",
 			"flavor_text": "\"Do you not see the gulf beginning to take shape between us? Do you not feel it?\nI do.\"",
 			"colors": [],
 			"color_identity": [],
@@ -5828,13 +5830,13 @@
 			"id": "3dfbbe17-2dce-4d6c-99c8-d7de767900cc",
 			"oracle_id": "c1a696f5-0397-4fbc-957f-1bd1d409b45e",
 			"hcid": "103",
-			"name": "Solider's Syringe",
+			"name": "Soldier's Syringe",
 			"set": "ROR",
 			"collector_number": "103",
 			"accepted_order": "103",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Soliders Syringe.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Soldiers Syringe.png",
 			"mana_cost": "{2}",
 			"mana_value": 2,
 			"types": [
@@ -6347,7 +6349,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Whenever equipped creature would be damaged, flip two coins. If both coins come up heads, prevent all damage done to equipped creature until end of turn.\nEquip {2}",
+			"oracle_text": "Whenever equipped creature would be dealt damage, flip two coins. If both coins come up heads, prevent all damage done to equipped creature until end of turn.\nEquip {2}",
 			"flavor_text": "\"There were over 7 million security chests in the Contact Light. The chance of you finding a specific one is impossible.\"",
 			"colors": [],
 			"color_identity": [],
@@ -6433,7 +6435,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Equipped create gets +5/+0\nIf equipped creature is dealt combat damage, sacrifice Delicate Watch.\nEquip {2}",
+			"oracle_text": "Equipped creature gets +5/+0.\nIf equipped creature is dealt combat damage, sacrifice Delicate Watch.\nEquip {2}",
 			"flavor_text": "\"L-Look what that BEAST did to my precious watch!\"\n\"...well, it's still right twice a day.\"",
 			"colors": [],
 			"color_identity": [],
@@ -7361,7 +7363,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Whenever this creature would receive it's first damage every turn, prevent 3 of that damage.\nEquip {3}",
+			"oracle_text": "Whenever equipped creature would receive it's first damage every turn, prevent 3 of that damage.\nEquip {3}",
 			"flavor_text": "\"...Heh, I don't think a shiny rock will do much\"",
 			"colors": [],
 			"color_identity": [],
@@ -8156,7 +8158,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Whenever equipped creature becomes tapped, create a 1/1 blue Squid Drone artifact creature token named Squid Turret with \"This token cannot block\"\nEquip {3}",
+			"oracle_text": "Whenever equipped creature becomes tapped, create a 1/1 blue Squid Drone artifact creature token named Squid Turret with \"This token cannot block.\"\nEquip {3}",
 			"flavor_text": "\"It's disgusting.\"",
 			"colors": [],
 			"color_identity": [],
@@ -8948,7 +8950,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Whenever equipped creature is dealt damage from a creature, phase out that creature. This affect can only activate once per round.\nEquip {3}",
+			"oracle_text": "Whenever equipped creature is dealt damage from a creature, phase out that creature. This affect can only activate once per turn.\nEquip {3}",
 			"flavor_text": "\"You touch it.\n\"No way, you touch it.\"",
 			"colors": [],
 			"color_identity": [],
@@ -9039,7 +9041,7 @@
 				"Survivor"
 			],
 			"type_line": "Legendary Artifact Creature — Robot Survivor",
-			"oracle_text": "{T}: You may activate target activated ability of an artifact you control with T in its cost without paying its mana cost.",
+			"oracle_text": "{T}: Activate an ability with {T} in its cost of another artifact you control without paying its mana cost. The artifact still taps.",
 			"flavor_text": "...and so it left nothing behind.",
 			"power": "0",
 			"toughness": "1",
@@ -9808,7 +9810,7 @@
 				"Bird"
 			],
 			"type_line": "Creature — Bird",
-			"oracle_text": "Flying\nSolus creatures you control gain +1/+1.",
+			"oracle_text": "Flying\nSolus creatures you control get +1/+1.",
 			"flavor_text": "\"Did I leave out the part about the robot? The [REDACTED] flying robot they have?\"",
 			"power": "2",
 			"toughness": "2",
@@ -10153,7 +10155,7 @@
 				"Aphelian"
 			],
 			"type_line": "Creature — Aphelian",
-			"oracle_text": "Clay Apothecary cannot be blocked",
+			"oracle_text": "Clay Apothecary cannot be blocked.",
 			"flavor_text": "\"The Tar's history is unimportant. What well or crevice it first flowed from doesn't matter; only that the Tar flows.\"",
 			"power": "3",
 			"toughness": "5",
@@ -10379,7 +10381,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Food Equipment",
-			"oracle_text": "If an effects would increase equipped creature's toughness, that effect increases its toughness by twice that much instead.\n{2}, {T}, Sacrifice Quick Fix: You gain 3 life.\nEquip {2}",
+			"oracle_text": "If an effect would increase equipped creature's toughness, that effect increases its toughness by twice that much instead.\n{2}, {T}, Sacrifice Quick Fix: You gain 3 life.\nEquip {2}",
 			"flavor_text": "Instructions: [ERROR] [ERROR] [ERROR] [ERROR] [ERROR] and it's done!",
 			"colors": [],
 			"color_identity": [],
@@ -10603,12 +10605,14 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Lunar Equipment",
-			"oracle_text": "If damage would be dealt to equipped creature, put that many -0/-1 counters on it instead.\nIf you would gain life, put twice that many +0/+1 counters on equipped creature instead.\nEquip 2",
+			"oracle_text": "If damage would be dealt to equipped creature, put that many -0/-1 counters on it instead.\nIf you would gain life, put twice that many +0/+1 counters on equipped creature instead.\nEquip {2}",
 			"flavor_text": "The flowers have fully bloomed and the body is as good as new.\nNo signs of life, but not necessary.",
 			"colors": [],
 			"color_identity": [],
 			"color_identity_hybrid": [],
-			"keywords": [],
+			"keywords": [
+				"equip"
+			],
 			"legalities": {
 				"standard": "legal",
 				"4cb": "legal",
@@ -10767,7 +10771,7 @@
 				"Eclipse"
 			],
 			"type_line": "Enchantment — Eclipse",
-			"oracle_text": "If you control no permanent named Eclipse 2, exile Eclipse 3.\nWhen you draw this card, you may reveal it. If you do, shuffle it into your library, then search your library for an Eclipse card, reveal it, put it into your hand, then shuffle.\nAll creatures cannot have flying, first strike, and vigilance.",
+			"oracle_text": "If you control no permanent named Eclipse 2, exile Eclipse 3.\nWhen you draw this card, you may reveal it. If you do, shuffle it into your library, then search your library for an Eclipse card, reveal it, put it into your hand, then shuffle.\nCreatures lose flying, first strike, and vigilance and can’t have or gain those abilities.",
 			"flavor_text": "Ally Fall Damage: +100% and lethal",
 			"colors": [],
 			"color_identity": [],
@@ -10963,7 +10967,7 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Artifact of Metamorphosis.png",
-			"mana_cost": "{B}{B}{B}",
+			"mana_cost": "{U}{U}{U}",
 			"mana_value": 3,
 			"types": [
 				"Enchantment"
@@ -10978,11 +10982,11 @@
 				"U"
 			],
 			"color_identity": [
-				"B"
+				"U"
 			],
 			"color_identity_hybrid": [
 				[
-					"B"
+					"U"
 				]
 			],
 			"keywords": [
@@ -11100,7 +11104,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Lunar Equipment",
-			"oracle_text": "Once each turn, you may activate this ability: Untap target Equipment.\nWhenever an Equipment attached to equipped creature becomes untapped, if it has an activated ability with T in its cost, you pay that ability's other costs if able. If you do, copy that ability. You may choose new targets for the copy. Then, that Equipment becomes tapped.\nEquip {3}",
+			"oracle_text": "{0}: Untap target Equipment. Activate only once each turn.\nWhenever an Equipment attached to equipped creature becomes untapped, if it has an activated ability with {T} in its cost, you pay that ability's other costs if able. If you do, copy that ability. You may choose new targets for the copy. Then, that Equipment becomes tapped.\nEquip {3}",
 			"flavor_text": "Fossils. Remnants. How cruel.",
 			"colors": [],
 			"color_identity": [],
@@ -11271,7 +11275,7 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Cleanup Drone.png",
-			"mana_cost": "{3}",
+			"mana_cost": "{2}{B}",
 			"mana_value": 3,
 			"types": [
 				"Artifact",
@@ -11281,13 +11285,21 @@
 				"Drone"
 			],
 			"type_line": "Artifact Creature — Drone",
-			"oracle_text": "Flying\nWhenever a creature an opponent controls dies this combat, if Cleanup Drone attacked or blocked this combat, flip a coin. If you win the flip, you gain 1 life. If you lose the flip, create a Treasure token.",
+			"oracle_text": "Flying\nAt the beginning of your postcombat main phase, if a creature an opponent controls died during combat this turn, flip a coin. If you win the flip, you gain 1 life. If you lose the flip, create a Treasure token.\n",
 			"flavor_text": "\"Girl Traumatized By \"˜Safe' Sweeper Unit In Theme Park NIGHTMARE\"",
 			"power": "1",
 			"toughness": "2",
-			"colors": [],
-			"color_identity": [],
-			"color_identity_hybrid": [],
+			"colors": [
+				"B"
+			],
+			"color_identity": [
+				"B"
+			],
+			"color_identity_hybrid": [
+				[
+					"B"
+				]
+			],
 			"keywords": [],
 			"legalities": {
 				"standard": "legal",
@@ -11953,6 +11965,8 @@
 			"type_line": "Creature — Alien",
 			"oracle_text": "Vigilance, trample",
 			"flavor_text": "I had Tharson throw a stone near the creature and suddenly any signs of intelligence faded, replaced with primal fury.",
+			"power": "3",
+			"toughness": "4",
 			"colors": [
 				"R",
 				"W"
@@ -12233,7 +12247,7 @@
 				"Land"
 			],
 			"type_line": "Legendary Artifact Land",
-			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice a Treasure: Target creature loses indestructible until the end of turn.",
+			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice a Treasure: Target creature loses indestructible until end of turn.",
 			"flavor_text": "You dream of wealth.",
 			"colors": [],
 			"color_identity": [],
@@ -12704,7 +12718,7 @@
 				"Artifact"
 			],
 			"type_line": "Artifact",
-			"oracle_text": "As Temporary Item Distributor enters battlefield choose an Equipment on the battlefield.\n{T}: Create three tokens copies of the chosen equipment. Exile them during at the beginning of the next end step.",
+			"oracle_text": "As Temporary Item Distributor enters the battlefield, choose an Equipment on the battlefield.\n{T}: Create three tokens copies of the chosen equipment. Exile them during at the beginning of the next end step.",
 			"colors": [],
 			"color_identity": [],
 			"color_identity_hybrid": [],
@@ -13241,15 +13255,18 @@
 				"Artifact"
 			],
 			"subtypes": [
-				"Lunar"
+				"Lunar",
+				"Equipment"
 			],
-			"type_line": "Artifact — Lunar",
+			"type_line": "Artifact — Lunar Equipment",
 			"oracle_text": "At the beginning of your upkeep, choose an Equipment attached to equipped creature and sacrifice it. Choose one —\n\"¢ Search your library for a Lunar Equipment card, put it onto the battlefield attached to equipped creature, then shuffle.\n\"¢ Create a token that's a copy of a Lunar Equipment you control and attach it to equipped creature\nEquip {2}",
 			"flavor_text": "I hope you enjoy the shooting stars. Rest in peace.",
 			"colors": [],
 			"color_identity": [],
 			"color_identity_hybrid": [],
-			"keywords": [],
+			"keywords": [
+				"equip"
+			],
 			"legalities": {
 				"standard": "legal",
 				"4cb": "legal",
@@ -14276,7 +14293,7 @@
 				"Equipment"
 			],
 			"type_line": "Legendary Artifact — Equipment",
-			"oracle_text": "Whenever equipped creature deals lethal damage to a creature, you map untap an artifact you control.\nEquip {4}",
+			"oracle_text": "Whenever equipped creature deals lethal damage to a creature, you may untap an artifact you control.\nEquip {4}",
 			"flavor_text": "\"It turns out the method the King used did not originate from his time period. His court discovered a ritual performed by a tribe from much further back. It, of course, dealt with sacrifice.\"",
 			"colors": [],
 			"color_identity": [],
@@ -14528,7 +14545,7 @@
 						"Equipment"
 					],
 					"type_line": "Artifact — Equipment",
-					"oracle_text": "{T}: You gain 1 life. Activate only if Seed if Life (Consumed) is attached to a creature.\nEquip {1}",
+					"oracle_text": "{T}: You gain 1 life. Activate only if Seed of Life (Consumed) is attached to a creature.\nEquip {1}",
 					"flavor_text": "\"Deathless are we.\"",
 					"colors": []
 				}
@@ -14556,7 +14573,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Lethal damage dealt to equipped creature is determined as though its toughness were half its toughness, rounded up.\nEquip {0}",
+			"oracle_text": "Lethal damage dealt to equipped creature is determined as though its toughness were half its toughness, rounded up.\nAt the beginning of your upkeep, put a stage counter on Fuel Array.\nWhenever Fuel Array has four or more stage counters on it, search your library for a legendary Survivor creature, reveal it, put it into your hand, then shuffle. Then sacrifice Fuel Array.\nEquip {0}",
 			"flavor_text": "Looks like it could power something. EXTREMELY unstable...",
 			"colors": [],
 			"color_identity": [],
@@ -15779,7 +15796,7 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Conduit Canyon Logistics Vein.png",
-			"mana_cost": "",
+			"mana_cost": "{2}",
 			"mana_value": 0,
 			"types": [
 				"Artifact"
@@ -15862,13 +15879,13 @@
 			"id": "bd8dea21-1b6c-4286-95b8-4dc5335c766d",
 			"oracle_id": "4fd39a73-d119-49c5-9008-86dadc389878",
 			"hcid": "312",
-			"name": "Helminth Hatchery",
+			"name": "Helminth Hatchery, A Brother's Respite",
 			"set": "ROR",
 			"collector_number": "312",
 			"accepted_order": "312",
 			"layout": "normal",
 			"image_status": "highres",
-			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Helminth Hatchery.png",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Helminth Hatchery A Brothers Respite.png",
 			"mana_cost": "",
 			"mana_value": 0,
 			"types": [
@@ -16081,7 +16098,7 @@
 			"id": "e06ecd7e-e23f-4911-8c09-dbe0f78a4e89",
 			"oracle_id": "089309cf-ad96-4976-9db4-49accd19c2d7",
 			"hcid": "317",
-			"name": "Pillar of Design",
+			"name": "Whenever you declare one or more attackers, remove those creatures from combat. Then put a charge counter on Pillar of Design.\nAt the beginning of each postcombat main phase, if you were dealt combat damage by an opponent’s creature, put a charge counter on Pillar of Design.\nWhenever Pillar of Design has three or more charge counters on it, exile it.",
 			"set": "ROR",
 			"collector_number": "317",
 			"accepted_order": "317",
@@ -16097,7 +16114,7 @@
 				"Pillar"
 			],
 			"type_line": "Artifact — Pillar",
-			"oracle_text": "Whenever you declare one or more attackers or blockers, remove those creatures from combat. Then put a charge counter on Pillar of Design.\nWhenever Pillar of Design has three or more charge counters on it, exile it.",
+			"oracle_text": "Whenever you declare one or more attackers, remove those creatures from combat. Then put a charge counter on Pillar of Design.\nDuring the beginning of each postcombat main phase, if you were dealt combat damage by a opponent’s creature, put a charge counter on Pillar of Design.\nWhenever Pillar of Design has three or more charge counters on it, exile it.",
 			"flavor_text": "Look at the planarity of the surfaces. This is design. I love design.",
 			"colors": [],
 			"color_identity": [],
@@ -16280,7 +16297,7 @@
 				"Land"
 			],
 			"type_line": "Legendary Artifact Land",
-			"oracle_text": "{T}: Add {C}. If you control two or more Wisps, add {CC} instead.",
+			"oracle_text": "{T}: Add {C}. If you control two or more Wisps, add {C}{C} instead.",
 			"flavor_text": "\"Are these creatures your new worms? Is this how you mean things to be? Do you love them more than me, brother?\nANSWER ME!\"",
 			"colors": [],
 			"color_identity": [],
@@ -17140,7 +17157,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "If equipped creature has reach, it gains haste and first-strike.\nEquip {1}",
+			"oracle_text": "If equipped creature has reach, it gains haste and first strike.\nEquip {1}",
 			"flavor_text": "\"Hopefully it has not been dinged in the mail :-)\"",
 			"colors": [],
 			"color_identity": [],
@@ -18037,7 +18054,7 @@
 				"Equipment"
 			],
 			"type_line": "Legendary Artifact — Equipment",
-			"oracle_text": "Equipped creature gets +10/+0\nEquip {5}",
+			"oracle_text": "Equipped creature gets +10/+0.\nEquip {5}",
 			"flavor_text": "\"I gotta admit, that last video was pretty cool... Just don't let the union find out about it. You'll lose more than your license if they catch you playing with this.\"",
 			"colors": [],
 			"color_identity": [],
@@ -18353,7 +18370,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "If equipped creature has haste or vigilance, whenever it is declared as an attacker, deal 3 damage to target creature.\nEquip {B}{G}",
+			"oracle_text": "Whenever equipped creature attacks, if it has haste or vigilance, it deals 3 damage to target creature.\nEquip {B}{G}",
 			"flavor_text": "HERE - TWO COILS OF DENKU ROPE. THOSE ARE FOR STRENGTH.\nHERE - FOUR CARDS OF OBSIDIAN. THOSE ARE FOR SELF-CONFIDENCE.",
 			"colors": [
 				"B",
@@ -18409,7 +18426,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Equipped creature gets +0/+3\nEquip {1}",
+			"oracle_text": "Equipped creature gets +0/+3.\nEquip {1}",
 			"flavor_text": "\"His influence is dark.\nI do not blame you for your curiosity... but cleanse yourself of it immediately.\"",
 			"colors": [],
 			"color_identity": [],
@@ -19127,7 +19144,7 @@
 				"Equipment"
 			],
 			"type_line": "Legendary Artifact — Food Equipment",
-			"oracle_text": "Whenever equipped creature deals damage, create a 2/1 token colorless Wisp Worm token named Spectral Wyrm.\n{2}, {T}, Sacrifice SautÃ©ed Worms: You gain 3 life.\nEquip {4}",
+			"oracle_text": "Whenever equipped creature deals damage, create a 2/1 colorless Wisp Worm token named Spectral Wyrm.\n{2}, {T}, Sacrifice SautÃ©ed Worms: You gain 3 life.\nEquip {4}",
 			"flavor_text": "With a sigh, Providence took one of the cups his brother had delicately carved from stone. And one last time, he raised the cup to the sky- a toast to the beginning of a new age for Petrichor V.",
 			"colors": [],
 			"color_identity": [],
