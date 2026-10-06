@@ -3883,7 +3883,7 @@
 				"Spacecraft"
 			],
 			"type_line": "Legendary Artifact — Spacecraft",
-			"oracle_text": "When the UES Safe Travels enters, search your library for a legendary survivor creature, reveal it, put it into your hand, then shuffle.\nStation\n3+ | {3}, {T}: Deal 2 damage to target creature controlled by an opponent.\n10+ | Flying\n5, {T}: Destroy target creature you control. If you do, destroy target creature.",
+			"oracle_text": "When the UES Safe Travels enters, search your library for a legendary survivor creature, reveal it, put it into your hand, then shuffle.\nStation\n3+ | {3}, {T}: Deal 2 damage to target creature controlled by an opponent.\n10+ | Flying\n{5}, {T}: Destroy target creature you control. If you do, destroy target creature.",
 			"power": "5",
 			"toughness": "5",
 			"colors": [
@@ -19097,7 +19097,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Whenever equipped creature attacks, you may search your library for a nonlegendary Eldrazi creature card and put it onto the battlefield tapped and attacking. Then shuffle.\nEquip {3}",
+			"oracle_text": "Whenever equipped creature attacks, you may search your library for a nonlegendary Eldrazi creature card and put it onto the battlefield tapped and attacking. Then shuffle.\nEquip {U}{B}",
 			"flavor_text": "- //--AUTO-TRANSCRIPTION FAILED --//\n- Help",
 			"colors": [
 				"U",
@@ -19673,6 +19673,297 @@
 					"B"
 				]
 			],
+			"keywords": [],
+			"legalities": {
+				"standard": "legal",
+				"4cb": "legal",
+				"commander": "legal"
+			},
+			"creators": [
+				"Joshua2000B"
+			],
+			"rulings": "",
+			"finish": "nonfoil",
+			"border_color": "black",
+			"frame": "2015"
+		},
+		{
+			"object": "card",
+			"kind": "card",
+			"id": "76dc5818-1f61-48f9-85c9-8e5be0cfdbfc",
+			"oracle_id": "e0affb04-3aa9-4fbc-a42b-46d47ae86403",
+			"hcid": "392",
+			"name": "Plains",
+			"export_name": "Plains_",
+			"set": "ROR",
+			"collector_number": "392",
+			"accepted_order": "392",
+			"layout": "normal",
+			"image_status": "highres",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Plains.png\n",
+			"mana_cost": "",
+			"mana_value": 0,
+			"supertypes": [
+				"Basic"
+			],
+			"types": [
+				"Land"
+			],
+			"subtypes": [
+				"Plains"
+			],
+			"type_line": "Basic Land — Plains",
+			"oracle_text": "({T}: Add {W}.)",
+			"colors": [],
+			"color_identity": [
+				"W"
+			],
+			"color_identity_hybrid": [
+				[
+					"W"
+				]
+			],
+			"keywords": [],
+			"legalities": {
+				"standard": "legal",
+				"4cb": "legal",
+				"commander": "legal"
+			},
+			"creators": [
+				"Joshua2000B"
+			],
+			"rulings": "",
+			"finish": "nonfoil",
+			"border_color": "black",
+			"frame": "2015"
+		},
+		{
+			"object": "card",
+			"kind": "card",
+			"id": "c2cbbcd6-b70c-4ffc-a055-bcaedfcf3d8f",
+			"oracle_id": "69d97187-384d-4859-bd3a-ed8462dbe76e",
+			"hcid": "393",
+			"name": "Island",
+			"export_name": "Island_",
+			"set": "ROR",
+			"collector_number": "393",
+			"accepted_order": "393",
+			"layout": "normal",
+			"image_status": "highres",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Island.png",
+			"mana_cost": "",
+			"mana_value": 0,
+			"supertypes": [
+				"Basic"
+			],
+			"types": [
+				"Land"
+			],
+			"subtypes": [
+				"Island"
+			],
+			"type_line": "Basic Land — Island",
+			"oracle_text": "({T}: Add {U}.)",
+			"colors": [],
+			"color_identity": [
+				"U"
+			],
+			"color_identity_hybrid": [
+				[
+					"U"
+				]
+			],
+			"keywords": [],
+			"legalities": {
+				"standard": "legal",
+				"4cb": "legal",
+				"commander": "legal"
+			},
+			"creators": [
+				"Joshua2000B"
+			],
+			"rulings": "",
+			"finish": "nonfoil",
+			"border_color": "black",
+			"frame": "2015"
+		},
+		{
+			"object": "card",
+			"kind": "card",
+			"id": "62b27e79-df12-4845-a07b-983739f39659",
+			"oracle_id": "9978edff-f365-4f40-ba27-ce2cb36a5c96",
+			"hcid": "394",
+			"name": "Swamp",
+			"export_name": "Swamp_",
+			"set": "ROR",
+			"collector_number": "394",
+			"accepted_order": "394",
+			"layout": "normal",
+			"image_status": "highres",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Swamp.png",
+			"mana_cost": "",
+			"mana_value": 0,
+			"supertypes": [
+				"Basic"
+			],
+			"types": [
+				"Land"
+			],
+			"subtypes": [
+				"Swamp"
+			],
+			"type_line": "Basic Land — Swamp",
+			"oracle_text": "({T}: Add {B}.)",
+			"colors": [],
+			"color_identity": [
+				"B"
+			],
+			"color_identity_hybrid": [
+				[
+					"B"
+				]
+			],
+			"keywords": [],
+			"legalities": {
+				"standard": "legal",
+				"4cb": "legal",
+				"commander": "legal"
+			},
+			"creators": [
+				"Joshua2000B"
+			],
+			"rulings": "",
+			"finish": "nonfoil",
+			"border_color": "black",
+			"frame": "2015"
+		},
+		{
+			"object": "card",
+			"kind": "card",
+			"id": "ba279d3f-8e4b-4d7a-8532-84db8982f225",
+			"oracle_id": "6341aee8-f0b3-4852-bf92-c2d98e85a51c",
+			"hcid": "395",
+			"name": "Mountain",
+			"export_name": "Mountain_",
+			"set": "ROR",
+			"collector_number": "395",
+			"accepted_order": "395",
+			"layout": "normal",
+			"image_status": "highres",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Mountain.png",
+			"mana_cost": "",
+			"mana_value": 0,
+			"supertypes": [
+				"Basic"
+			],
+			"types": [
+				"Land"
+			],
+			"subtypes": [
+				"Mountain"
+			],
+			"type_line": "Basic Land — Mountain",
+			"oracle_text": "({T}: Add {R}.)",
+			"colors": [],
+			"color_identity": [
+				"R"
+			],
+			"color_identity_hybrid": [
+				[
+					"R"
+				]
+			],
+			"keywords": [],
+			"legalities": {
+				"standard": "legal",
+				"4cb": "legal",
+				"commander": "legal"
+			},
+			"creators": [
+				"Joshua2000B"
+			],
+			"rulings": "",
+			"finish": "nonfoil",
+			"border_color": "black",
+			"frame": "2015"
+		},
+		{
+			"object": "card",
+			"kind": "card",
+			"id": "49ab6e0c-e4ab-4dfb-8193-91d074ea467c",
+			"oracle_id": "d29fa1b6-921d-44bb-8a27-77dcc88a2648",
+			"hcid": "396",
+			"name": "Forest",
+			"export_name": "Forest_",
+			"set": "ROR",
+			"collector_number": "396",
+			"accepted_order": "396",
+			"layout": "normal",
+			"image_status": "highres",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Forest.png",
+			"mana_cost": "",
+			"mana_value": 0,
+			"supertypes": [
+				"Basic"
+			],
+			"types": [
+				"Land"
+			],
+			"subtypes": [
+				"Forest"
+			],
+			"type_line": "Basic Land — Forest",
+			"oracle_text": "({T}: Add {G}.)",
+			"colors": [],
+			"color_identity": [
+				"G"
+			],
+			"color_identity_hybrid": [
+				[
+					"G"
+				]
+			],
+			"keywords": [],
+			"legalities": {
+				"standard": "legal",
+				"4cb": "legal",
+				"commander": "legal"
+			},
+			"creators": [
+				"Joshua2000B"
+			],
+			"rulings": "",
+			"finish": "nonfoil",
+			"border_color": "black",
+			"frame": "2015"
+		},
+		{
+			"object": "card",
+			"kind": "card",
+			"id": "5c1aab63-f6ab-4b50-8b53-b1a3ea2bb801",
+			"oracle_id": "5fedbc90-b045-4636-abeb-b44be488bed2",
+			"hcid": "397",
+			"name": "Wastes",
+			"export_name": "Wastes_",
+			"set": "ROR",
+			"collector_number": "397",
+			"accepted_order": "397",
+			"layout": "normal",
+			"image_status": "highres",
+			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Wastes.png\n\n",
+			"mana_cost": "",
+			"mana_value": 0,
+			"supertypes": [
+				"Basic"
+			],
+			"types": [
+				"Land"
+			],
+			"type_line": "Basic Land",
+			"oracle_text": "({T}: Add {C}.)",
+			"colors": [],
+			"color_identity": [],
+			"color_identity_hybrid": [],
 			"keywords": [],
 			"legalities": {
 				"standard": "legal",
