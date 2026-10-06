@@ -14884,7 +14884,7 @@
 				"Crab"
 			],
 			"type_line": "Legendary Creature — Eldrazi Crab",
-			"oracle_text": "Whenever Void Devastator, Destroyer of Worlds dies during combat, exile all attacking and blocking creatures. Then each player chooses a creature they control. Exile those creatures.",
+			"oracle_text": "Whenever Void Devastator dies during combat, exile all attacking and blocking creatures. Then each player chooses a creature they control. Exile those creatures.",
 			"flavor_text": "\"If I were to look upon a being of such power... I'd cut my losses and run.\"",
 			"power": "4",
 			"toughness": "4",
@@ -19088,7 +19088,7 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Newly Hatched Zoea.png",
-			"mana_cost": "{4}",
+			"mana_cost": "{2}{U}{B}",
 			"mana_value": 4,
 			"types": [
 				"Artifact"
@@ -19099,9 +19099,22 @@
 			"type_line": "Artifact — Equipment",
 			"oracle_text": "Whenever equipped creature attacks, you may search your library for a nonlegendary Eldrazi creature card and put it onto the battlefield tapped and attacking. Then shuffle.\nEquip {3}",
 			"flavor_text": "- //--AUTO-TRANSCRIPTION FAILED --//\n- Help",
-			"colors": [],
-			"color_identity": [],
-			"color_identity_hybrid": [],
+			"colors": [
+				"U",
+				"B"
+			],
+			"color_identity": [
+				"U",
+				"B"
+			],
+			"color_identity_hybrid": [
+				[
+					"U"
+				],
+				[
+					"B"
+				]
+			],
 			"keywords": [
 				"equip"
 			],
