@@ -18093,13 +18093,16 @@
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Pocket I.C.B.M..png",
 			"mana_cost": "{5}",
 			"mana_value": 5,
+			"supertypes": [
+				"Legendary"
+			],
 			"types": [
 				"Artifact"
 			],
 			"subtypes": [
 				"Equipment"
 			],
-			"type_line": "Artifact — Equipment",
+			"type_line": "Legendary Artifact — Equipment",
 			"oracle_text": "If equipped creature would deal noncombat damage, it deals that much damage plus 4 instead.\nEquip {4}",
 			"flavor_text": "\"What's better than one missile...? MORE missiles.\"",
 			"colors": [],
@@ -18119,7 +18122,10 @@
 			"rulings": "",
 			"finish": "nonfoil",
 			"border_color": "black",
-			"frame": "2015"
+			"frame": "2015",
+			"frame_effects": [
+				"legendary"
+			]
 		},
 		{
 			"object": "card",
