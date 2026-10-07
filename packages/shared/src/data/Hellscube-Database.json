@@ -6962,7 +6962,7 @@
 				"Equipment"
 			],
 			"type_line": "Artifact — Equipment",
-			"oracle_text": "Whenever equipped creature deals damage to a creature, if that damage is lethal to that creature, put a blood counter on Infusion.\nEquipped creature gets +1/+0 for each blood counter on Infusion.\nEquip {1}",
+			"oracle_text": "Whenever equipped creature deals damage to a creature, if that damage is lethal to that creature, put a blood counter on Infusion.\nEquipped creature gets +0/+1 for each blood counter on Infusion.\nEquip {1}",
 			"flavor_text": "Contains samples from bears, leeches, tigers, elephants, elephant sharks, sharks, bull sharks, ants, and anteaters.",
 			"colors": [],
 			"color_identity": [],
