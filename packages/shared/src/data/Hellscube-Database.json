@@ -7526,13 +7526,13 @@
 			"layout": "normal",
 			"image_status": "highres",
 			"image": "https://joshua2000b.github.io/personal/mtg/cards/ror2_custom/Radar Scanner.png",
-			"mana_cost": "{3}",
-			"mana_value": 3,
+			"mana_cost": "{5}",
+			"mana_value": 5,
 			"types": [
 				"Artifact"
 			],
 			"type_line": "Artifact",
-			"oracle_text": "Landfall — Whenever a land enters the battlefield under your control, look at the top 6 cards of your library. You may reveal an artifact card from among them. If that card is an Equipment, put it onto the battlefield. Otherwise put it into your hand. Put the rest on the bottom of your library in any order.",
+			"oracle_text": "Landfall — Whenever a land enters the battlefield under your control, look at the top 3 cards of your library. You may reveal an artifact card from among them. If that card is an Equipment, put it onto the battlefield. Otherwise put it into your hand. Put the rest on the bottom of your library in any order.",
 			"flavor_text": "\"This thing can put out anything from infrared to UV waves\"",
 			"colors": [],
 			"color_identity": [],
